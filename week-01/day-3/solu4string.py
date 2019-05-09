@@ -275,13 +275,16 @@ s1 and s2 and s3
 
 s = ["a","a","b","c"]
 
-
+def unique(list1):  
+    unique_list = []       
+    for x in list1: 
+        if x not in unique_list: 
+            unique_list.append(x) 
+    return unique_list
 myset =set()
 for i in unique(s):
     myset.add(i)
 print (myset)
-
-
 
 
 
