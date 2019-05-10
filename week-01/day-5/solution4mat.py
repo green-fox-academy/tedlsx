@@ -58,10 +58,11 @@ print(result)
 
 
 ### vertical flipping
-for i in range(0, len(x)):
-    for j in range(0, int(len(x[0])/2)):
-        x[i][j] , x[i][len(x[0]) - j - 1] = x[i][len(x[0]) - j - 1] , x[i][j]
+for i in range(0, int(len(x)/2)):
+    for j in range(0, len(x[0]) ):
+        x[i][j] , x[len(x) - i - 1][j] = x[len(x) - i - 1 ][j] , x[i][j]
 print (x)
+
 
 #######3 Main anti-diagonal mirroring
 for i in range(0 , len(x)):
@@ -73,9 +74,9 @@ print (x)
 
 
 ### horizontal flipping
-for i in range(0, int(len(x)/2)):
-    for j in range(0, len(x[0]) ):
-        x[i][j] , x[len(x) - i - 1][j] = x[len(x) - i - 1 ][j] , x[i][j]
+for i in range(0, len(x)):
+    for j in range(0, int(len(x[0])/2)):
+        x[i][j] , x[i][len(x[0]) - j - 1] = x[i][len(x[0]) - j - 1] , x[i][j]
 print (x)
 
 
