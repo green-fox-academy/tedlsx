@@ -76,7 +76,7 @@ print(subint(9, [1, 11, 34, 52, 61]))
 
 
 ### unique
-def unique(arr):
+def unique_1(arr):
     uni_list =[]
     for i in arr:
         if i not in uni_list:
@@ -84,7 +84,7 @@ def unique(arr):
     return uni_list
 
  
-print(unique([1, 11, 34, 11, 52, 61, 1, 34]))       
+print(unique_1([1, 11, 34, 11, 52, 61, 1, 34]))       
         
 
 #### anagram 
