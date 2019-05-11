@@ -7,13 +7,14 @@ Created on Thu May  9 13:26:10 2019
 
 ##  Bubble sort 
 a= [3,2,1,4,5,6,8,7,9,0]
+def bubblesort(a):
+    for i in range(0,len(a)):
+        for j in range (0 , len(a)-i-1):
+            if a[j] > a[j+1] :
+                a[j] , a[j+1] = a[j+1] , a[j]
+    return a            
 
-for i in range(0,len(a)):
-    for j in range (0 , len(a)-i-1):
-        if a[j] > a[j+1] :
-            a[j] , a[j+1] = a[j+1] , a[j]
-print (a)            
-
+bubblesort(a)
 
 #### insteration sort
 a= [3,2,1,4,5,6,8,7,9,0]
