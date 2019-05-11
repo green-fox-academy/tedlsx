@@ -235,22 +235,16 @@ class Thing:
 
 fleet = Fleet()
 fleet.add(Thing("get milk"))
-fleet.add("Remove the obstacles")
-fleet.add("Stand up")
-fleet.add("Eat lunch")
+fleet.add(Thing("Remove the obstacles"))
+fleet.add(Thing("Stand up"))
+fleet.add(Thing("Eat lunch"))
 
-for i in range(0,len(fleet.things)):    
-    print(type(fleet.things[i]))
-    
-    thing_name = str(fleet.things[i])
-    print(thing_name)
-    if fleet.things[i] == "Stand up" or "Eat lunch":
-        thing = Thing(fleet.things[i])
-        thing_reslut = thing.complete()
-        print(thing_reslut)
-        print(thing)
-    else:
-        print(thing)
+        
+fleet.things[2].complete()       
+fleet.things[3].complete()  
+print(fleet)
+
+
 # Create a fleet of things to have this output:
 
 # 1. [ ] Get milk
@@ -260,14 +254,3 @@ for i in range(0,len(fleet.things)):
 # 3. [x] Stand up
 
 # 4. [x] Eat lunch
-
-print(thing)
-
-print(fleet)        
-
-type(thing.name)
-
-thing_reslut = thing.complete()
-print(thing_reslut)
-thing_str = thing_reslut.__str__
-print(thing_str)
