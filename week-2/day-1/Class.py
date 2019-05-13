@@ -4,6 +4,9 @@ Created on Fri May 10 09:52:16 2019
 
 @author: Ted_Liu
 """
+import random
+import unittest
+
 
 ### Post-it
 
@@ -129,7 +132,6 @@ a.get()
 a.reset()
 
 ### Test counter
-import unittest
 
 class TestCounter(unittest.TestCase):
 
@@ -254,3 +256,308 @@ print(fleet)
 # 3. [x] Stand up
 
 # 4. [x] Eat lunch
+
+### DiceSet
+
+class DiceSet(object):
+    
+    def __init__(self, dice_list = []):
+        self.dice_list = dice_list
+    
+    def roll(self):
+        for i in range(0,6):
+            self.dice_list.append(random.randint(1,6))
+        
+    def get_current(self):
+        return self.dice_list
+    
+    def reroll(self, which_dice):
+            self.dice_list[which_dice] = random.randint(1,6)
+
+
+Dice = DiceSet()    
+Dice.roll()    
+Dice.get_current()    
+Dice.reroll(1)    
+Dice.get_current()    
+
+######### to roll all dices to 6
+for i in range (0, 1000):
+    current_dice = Dice.get_current()
+    for j in range(0,6):
+        if current_dice[j] != 6:
+            Dice.reroll(j)
+                
+    
+print (Dice.dice_list)   
+
+
+
+#### Dominoes 
+
+class Domino:
+    num_1 = 0
+    num_2 = 0
+    def __init__(self, num_1, num_2):
+        self.num_1 = num_1
+        self.num_2 = num_2
+        self.values = [num_1, num_2]
+    def __repr__(self):
+        return '[{}, {}]'.format(self.values[0], self.values[1])    
+        
+
+def initialize_dominoes():
+    dominoes = []
+    dominoes.append(Domino(5, 2))
+    dominoes.append(Domino(4, 6))
+    dominoes.append(Domino(1, 5))
+    dominoes.append(Domino(6, 7))
+    dominoes.append(Domino(2 ,4))
+    dominoes.append(Domino(7, 1))
+    return dominoes
+
+dominoes = initialize_dominoes()        
+
+print(dominoes)    
+dominoes[6].num_1
+
+my_domino = []
+my_domino = [[5,2]]
+
+
+
+for i in range(0, len(dominoes)):
+    for j in range(1, len(dominoes)):
+        if my_domino[i][1] == dominoes[j].num_1:
+            my_domino += [[dominoes[j].num_1, dominoes[j].num_2]]
+            
+                
+print (my_domino)    
+    
+###### complex 
+###  Teacher Student
+
+class Student:
+    def learn(self):
+        return "I have learned this method"
+    def question(self, teacher):
+        teacher.answer()
+    
+    
+    
+class Teacher:
+    def teach(self, student):
+        Student.learn()
+    def answer(self):
+        return "I am answing you"
+        
+
+student = Student()
+teacher = Teacher()        
+
+student.question(teacher)
+
+#### Petrol station
+        
+class Station:
+    def __init__(self, gas_amount):
+        self.gas_amount = gas_amount
+        
+    def refill(self, car):
+        car.capacity -= car.gas_amount
+        car.gas_amount += 1
+
+
+class Car:
+    def __init__(self, gas_amount = 0, capacity = 100):
+        self.gas_amount = gas_amount
+        self.capacity = capacity
+        
+station = Station(20)        
+
+car = Car()        
+
+station.refill(car)        
+
+print (car.gas_amount)        
+        
+        
+#####   Sharpie Set
+
+class SharpieSet:
+    def __init__(self, sharpie_list = [0,1,0,2]):
+        self.sharpie_list = sharpie_list
+        
+    def count_usable(self):
+        for i in range(0, len(self.sharpie_list)):
+            if self.sharpie_list[i] != 0:
+                print("usable")
+            else: 
+                print("not usable")
+                
+        
+    def remove_trash(self):
+        count = 0
+        for i in range(0, len(self.sharpie_list)):
+            if self.sharpie_list[i] == 0:
+                count += 1
+        for i in range(0 ,count):
+            self.sharpie_list.remove(0)                
+
+sh = SharpieSet()        
+sh.count_usable()        
+sh.remove_trash()        
+print(sh.sharpie_list)        
+
+
+####      Farm
+
+class Farm:
+    def __init__(self, animal_list, slots):
+        self.animal_list = animal_list
+        self.slots = slots
+        
+    def breed(self):
+        if self.slots != 0:
+            pass
+
+    def slaughter(self):
+        for i in range(0, len(self.animal_list)):
+            self.animal_list[i] = Animal()
+            while self.animal_list[i].hunger == 0:
+                del self.animal_list[i]
+
+
+farm = Farm(["a","b"],2)
+
+farm.slaughter()
+
+BlogPost.author_name
+
+##### Blog
+class Blog:
+    def __init__(self, blog_list = ["a", "b", "c"]):
+        self.blog_list = blog_list
+    def delete(self, int):
+        del self.blog_list[int]
+        
+    def update(self, int, BlogPost):
+        self.blog_list.insert(int, BlogPost)
+        
+        
+
+
+### Pirates
+        
+class Pirate:
+    def __init__(self, intoxicates = 0, state):
+        self.intoxicates = intoxicates 
+        self.state = state
+        
+    def drink_some_rum(self):
+        self.intoxicates += 1
+        
+    def hows_it_going_mate(self):
+        if self.intoxicates <= 4:
+            return "Pour me anudder!"
+        else:
+            return  "'Arghh, I'ma Pirate. How d'ya d'ink its goin?', the pirate passes out and sleeps it off"
+
+    def die(self):
+        self.state = "dead"
+    
+    def brawl(self):
+        i = random.randint(1,3)
+        if i == 1:
+            self.state = "dead"
+        elif i ==2:
+            self.state = "dead"
+        else:
+            self.state = "pass out"
+        
+        
+##### Pirates place
+            
+
+class Ship:
+    def __init__(self, pirate_list, captain_index):
+        self.pirate_list = pirate_list
+        self.captain_index = captain_index
+        
+    def fill_ship(self):
+        for i in random.randint(1,100):
+            self.pirate_list.append(Pirate())
+            print (i)
+    def Alive(self):
+        return len(self.pirate_list)
+        
+    def State(self):
+        stat_list = []
+        for i in range(0, len(self.pirate_list)):
+            self.state_list.append(["alive"])
+        
+    def Score(self):
+        count_pass_out = 0
+        for i in self.state_list:
+            if i == "pass out":
+                count_pass_out += 1
+        score = Pirate.intoxicates + Ship.Alive() + count_pass_out
+        return score
+        
+    def battle(self, otherShip):   
+        if Ship.Score() > otherShip.Score():
+            return True
+        losses = random.randint(0, len(self.Alive))
+        self.Alive -= losses
+        win_rum = random.randint(0, 10)
+        Pirate.intoxicates += win_rum
+        
+        
+### BattleApp
+        
+        
+        
+## Armada
+        
+## WarApp
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+  
+        
+        
+        
+        
+        
+        
+        
+
