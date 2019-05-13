@@ -466,21 +466,24 @@ class Pirate:
     def die(self):
         self.state = "dead"
     
-    def brawl(self):
+    def brawl(self, x):
         i = random.randint(1,3)
         if i == 1:
-            self.state = "dead"
+            self.die()
         elif i ==2:
-            self.state = "dead"
+            self.die()
+            x.die()
         else:
             self.state = "pass out"
+            x.state = "pass out"
         
         
 ##### Pirates place
             
 
 class Ship:
-    def __init__(self, pirate_list, captain_index):
+    def __init__(self, state_list, pirate_list, captain_index):
+        self.state_list = state_list
         self.pirate_list = pirate_list
         self.captain_index = captain_index
         
@@ -488,29 +491,33 @@ class Ship:
         for i in random.randint(1,100):
             self.pirate_list.append(Pirate())
             print (i)
-    def Alive(self):
-        return len(self.pirate_list)
-        
-    def State(self):
-        stat_list = []
-        for i in range(0, len(self.pirate_list)):
-            self.state_list.append(["alive"])
-        
+
     def Score(self):
         count_pass_out = 0
+        count_alive = 0
         for i in self.state_list:
             if i == "pass out":
                 count_pass_out += 1
-        score = Pirate.intoxicates + Ship.Alive() + count_pass_out
+            elif i =="alive":
+                count_alive += 1
+        score = self.pirate_list[self.captain_index] + count_alive + count_pass_out
         return score
         
     def battle(self, otherShip):   
         if Ship.Score() > otherShip.Score():
-            return True
+            self = winer 
+            otherShip = loser
+            
+        else:
+            self = loser
+            otherShip = winer
+        
         losses = random.randint(0, len(self.Alive))
-        self.Alive -= losses
+        loser.Alive -= losses
         win_rum = random.randint(0, 10)
-        Pirate.intoxicates += win_rum
+        loser.pirate_list[self.captain_index] += win_rum    
+            
+        
         
         
 ### BattleApp
