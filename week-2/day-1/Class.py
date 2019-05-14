@@ -450,7 +450,7 @@ class Blog:
 ### Pirates
         
 class Pirate:
-    def __init__(self, intoxicates = 0, state):
+    def __init__(self, intoxicates = 0, state = "alive"):
         self.intoxicates = intoxicates 
         self.state = state
         
@@ -505,17 +505,17 @@ class Ship:
         
     def battle(self, otherShip):   
         if Ship.Score() > otherShip.Score():
-            self = winer 
-            otherShip = loser
+             
+            losser = otherShip
             
         else:
-            self = loser
-            otherShip = winer
+            
+            losser = self
         
         losses = random.randint(0, len(self.Alive))
-        loser.Alive -= losses
+        losser.Alive -= losses
         win_rum = random.randint(0, 10)
-        loser.pirate_list[self.captain_index] += win_rum    
+        losser.pirate_list[self.captain_index] += win_rum    
             
         
         
