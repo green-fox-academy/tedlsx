@@ -174,16 +174,39 @@ print(decrpt("duplicated-chars.txt"))
 
 
 
+##### reversed-lines.txt
 
-
-
+def decrypt(file_name):
+    my_file = open(file_name, "r")
+    my_text = my_file.readlines()
+    for line in my_text:
+        new_line = line[::-1]
+        print(new_line)      
    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+decrypt("reversed-lines.txt")    
+
+#   reversed-order.txt   
+
+def decrypt_order(file_name):
+    my_file = open(file_name, "r")
+    my_text = my_file.readlines()
+    for i in range(len(my_text) - 1, 0, -1):
+        print(my_text[i])
+        
+
+
+
+decrypt_order("reversed-order.txt")
+
+
+## Optional
+
+
+
+
+
+
+
+
+
+
