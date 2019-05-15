@@ -187,27 +187,47 @@ with open("flowers.xml", "w") as f:
     
 #### Door entering
 
-with open('exams.csv') as csvfile:
-    readCSV = csv.reader(csvfile, delimiter='\t')
+with open('logs.csv') as csvfile:
+    readcsv = csv.reader(csvfile) 
+          
+    my_list  = []
+    dic = {}
+
     
-    my_list = []
-    for row in readCSV:
+    for row in readcsv:
+        time = re.findall("(\d+\\.\d+\\.\d+)\\.", row[1])
+        description = row[-1]
         my_list.append(row)
-        
-    count = 0    
     for i in range(0, len(my_list)):
-        if my_list[i][]
+        same_describ_list = []
+        time_list = []
+        unique_time_list = []
+        count_list = []
+        date = {}
+        description = my_list[i][-1]
+        time = re.findall("(\d+\\.\d+\\.\d+)\\.", my_list[i][1])
+        for k in range(0, len(my_list)):
+            if description == my_list[k][-1]: 
+                same_describ_list.append(my_list[i])
+                
+        for j in range(0, len(same_describ_list)):
+            time = re.findall("(\d+\\.\d+\\.\d+)\\.", same_describ_list[j][1])
+            time_list.append(time)
+            if time not in unique_time_list:
+                unique_time_list.append(time)
+                
+        for m in range(0, len(unique_time_list)):
+            count = time_list.count(unique_time_list[m])
+            count_list.append(count) 
+            
+        for n in range(0, len(unique_time_list)):            
+            date.update({unique_time_list[n][0] : count_list[n]})
+        
+        dic.update({description : date})
 
-
-
-
-
-
-
-
-
-
-
+dic        
+       
+      
 
 
 
