@@ -186,7 +186,7 @@ with open("flowers.xml", "w") as f:
     
     
 #### Door entering
-
+### mystupid way  ignore!
 with open('logs.csv') as csvfile:
     readcsv = csv.reader(csvfile) 
           
@@ -224,6 +224,28 @@ with open('logs.csv') as csvfile:
             date.update({unique_time_list[n][0] : count_list[n]})
         
         dic.update({description : date})
+
+### update the way:
+with open('logs.csv') as csvfile:
+    my_list = []
+    readcsv = csv.reader(csvfile) 
+
+    for row in readcsv:
+        my_list.append(row)
+    for i in range(0, len(my_list)): 
+        id = my_list[i][-1]
+        date = re.findall("(\d+\\.\d+\\.\d+)\\.", my_list[i][1])[0]
+        
+
+        if id in dic:
+            if date in dic[id]:
+                dic[id][date] += 1
+            else:
+                dic[id][date] = 1
+        else:
+            dic[id] = {date:1}
+
+dic
 
 dic        
        
