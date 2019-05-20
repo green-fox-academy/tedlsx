@@ -6,7 +6,7 @@ class fish:
         self.short_memory = short_memory
 
     def status(self):
-        print(f" {self.name}, weight: {self.weight}, color: {self.color}, short-term memory loss: {self.short_memory}")
+        return f"{self.name}, weight: {self.weight}, color: {self.color}, short-term memory loss: {self.short_memory}"
 
     def feed(self):
         pass
