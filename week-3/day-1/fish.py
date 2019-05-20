@@ -1,5 +1,5 @@
 class fish:
-    def __init__(self, name, weight, color, short_memory):
+    def __init__(self, name, weight, color = None, short_memory = False):
         self.name = name 
         self.weight = weight
         self.color = color
@@ -60,4 +60,11 @@ class aquarium:
     
     def statusall(self):
         for fish in self.fish_list:
-            fish.status()
+            print(fish.status())
+
+a = clownfish("a", 10, "blue")
+a.status()
+b = kong("b", 8, "red")
+
+test = aquarium([a,b])
+test.statusall()
