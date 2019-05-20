@@ -27,7 +27,7 @@ with open('logs.csv') as csvfile:
         else:
             dic[id] = {date:1}
 
-dic
+print(dic)
 
 ######### find the average arriving time
 dic_arr_time ={}
