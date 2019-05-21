@@ -24,7 +24,7 @@ class candyshop:
         self.income = income
         self.inventory = inventory
 
-    def creatSweet(self, Sweet):
+    def creatSweet(self, a_type, price, Sweet):
         self.sugar -= Sweet
         self.inventory.append(sweet(a_type, price, sugar = Sweet))
 
@@ -35,17 +35,19 @@ class candyshop:
     def sell(self, amount, a_type):
         if a_type == "lollipop":
             self.income += amount * 10
-            for i in range(0, amount):
+            while amount > 0:
                 for sweet in self.inventory:
                     if sweet.__class__.__name__ == "lollipop":
                         self.inventory.remove(sweet)
+                        amount -= 1
         else:
             self.income += amount * 20
             
-            for i in range(0, amount):
+            while amount > 0:
                 for sweet in self.inventory:
                     if sweet.__class__.__name__ == "candie":
                         self.inventory.remove(sweet)
+                        amount -= 1
 
     def buySugar(self, amount):
         self.sugar += amount
