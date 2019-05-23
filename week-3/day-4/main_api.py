@@ -42,12 +42,14 @@ def api_find(movie_id):
         elif request.method == "PUT":
                 with open(r"C:\Users\Ted_Liu\Documents\greenfox\tedlsx\week-3\day-4\api\movies.json") as file:
                         data = json.load(file)
+                        count = 0
                         for movie in data:
                                 if movie_id in movie:
                                         new_input = request.get_json()
                                         movie[movie_id] = new_input[movie_id]
-                                else:
-                                        return jsonify({"error": f"No movie found with '{movie_id}' ID"}), 404        
+                                        count = 1
+                        if count == 0:
+                                return jsonify({"error": f"No movie found with '{movie_id}' ID"}), 404        
                                         
                 with open(r"C:\Users\Ted_Liu\Documents\greenfox\tedlsx\week-3\day-4\api\movies.json", "w")as new_file:
                                 json.dump(data, new_file)
@@ -57,17 +59,21 @@ def api_find(movie_id):
 
         elif request.method == "DELETE":
                 if request.headers["my_key"] == str(12345):
-                        with open(r"C:\Users\Ted_Liu\Documents\greenfox\tedlsx\week-3\day-4\api\movies.json", "w") as file:
+                        with open(r"C:\Users\Ted_Liu\Documents\greenfox\tedlsx\week-3\day-4\api\movies.json") as file:
                                 data = json.load(file)
+                                count = 0
                                 for movie in data:
                                         if movie_id in movie:
                                                 new_input = request.get_json()
                                                 del movie[movie_id]
-                                                return jsonify(data)
-                                else:
+                                                count = 1
+                                if count == 0:
                                         return jsonify({"error": f"No movie found with '{movie_id}' ID"}), 404
                 else:
                         return jsonify({"error": "Invalid API_KEY"}), 403
+                with open(r"C:\Users\Ted_Liu\Documents\greenfox\tedlsx\week-3\day-4\api\movies.json", "w")as new_file:
+                                json.dump(data, new_file)
+                return jsonify(data)
 
 
 if __name__ == "__main__":
