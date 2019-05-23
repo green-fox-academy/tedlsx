@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Ted_Liu\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\Ted_Liu\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "python.testing.unittestArgs": [
