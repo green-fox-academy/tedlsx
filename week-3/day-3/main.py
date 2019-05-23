@@ -33,7 +33,8 @@ def res():
             for row in readCSV:
                 if name in row:
                     return render_template("result.html", row = f"name: {row[1]}, price: {row[2]}, qty: {row[3]}") 
-
+                else:
+                    return "No such Name, please check!"
 
 if __name__ == "__main__":
     app.run(debug=True)
