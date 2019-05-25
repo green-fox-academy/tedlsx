@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <p>
+                Ne istas culpa ha im negat de. Ii perductae evertenda at desuescam. Nudi per
+                ita sui dare ideo sola omne ordo. Sui sex item sane quum. Paucos sicuti tot
+                qui tantae aliquo strata iis tantas. Mo purgantur at affirmans im red...
+              </p>
+              <p>Seen by John, Jane, and Bob</p>
+              <p>
+                Aliud curam seu venti nihil sed istud volui eae qua. Autho ha falsi fidam
+                tangi ut an tactu. Revera per eandem vox coelum videbo nam virtus. Item olim
+                ei se duas ut. Ut mo ut peccato student adorare et diversa. Praecipuis ...
+              </p>
+              <p>Seen by John, and Jane</p>
+              <p>
+                Credendi at nequidem exhibere de. Debeo me dicam ex at ferri digna. Coloribus
+                differant disputari vix cogitandi jam stabilire. Perfacile ut reliquiae
+                perfectae ut. Fuisse falsas captum cui volent notior verbis sui. Meam id...
+              </p>
+              <p>Seen by John</p>
+              <p>
+                Potui habeo visus ens mea. An vi re continetur me familiarem negationem. Rei
+                inveniri jam viderunt subducam tam imponere jam. Sub cui more ipsi meum.
+              </p>
+              <p>No one has seen this article before.</p>
+
+      <h1>My work</h1>
+            <p>
+              {% for i in range(0, 4) %}
+                  <p>
+                      {{articles[i]["content"][0:222]}}... 
+                  </p>
+                  {% if articles[i]["seen"]|length > 0 %}
+                    <p>
+                      Seen by 
+                        {% for j in articles[i]["seen"] %}  
+                            {{j}}
+                        {% endfor %}
+                    </p>
+                  {% else %}
+                  <p>No one has seen this article before.</p>
+                  {% endif %}
+              {% endfor %}
+            </p>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+    <h1>Posts</h1>
+    <article>
+      <h1 id="p200">John#200 <a href="#p200">¶</a></h1>
+      <p>Difficulty on insensible reasonable in. From as went he they.</p>
+      <p>Liked by John, Jane</p>
+    </article>
+    <article>
+      <h1 id="p201">John#201 <a href="#p201">¶</a></h1>
+      <p>Preference themselves me as thoroughly partiality considered on in estimating.</p>
+    </article>
+    <article>
+      <h1 id="p202">Jane#202 <a href="#p202">¶</a></h1>
+      <p>In as name to here them deny wise this. As rapid woody my he me which.</p>
+      <p>Liked by John</p>
+    </article>
+
+    <h1>My work</h1>
+    <article>
+      {% for i in range(0, 3) %}
+        <h1>{{posts[i]["name"]}}#{{posts[i]["id"]}} <a href="#p{{posts[i]['id']}}">¶</a></h1>
+        <p>{{posts[i]["content"]}}</p>
+        {% if  "likes" in posts[i] %}
+          <p>Like by {{posts[i]["likes"]}}</p>
+        {% endif %}
+      {% endfor %}
+    </article>
+</body>
+</html>
