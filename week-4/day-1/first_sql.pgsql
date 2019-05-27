@@ -90,7 +90,10 @@ SELECT AGE(NOW(), date) as time_passed from reviews
 order by time_passed asc
 LIMIT 1
 
-
+-- or 
+SELECT DATE_PART('day', NOW() - date) as time_passed from reviews
+order by time_passed asc
+LIMIT 1
 
 
 
