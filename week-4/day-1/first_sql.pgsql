@@ -87,7 +87,7 @@ GROUP by product_id
 
 --How many days passed since the last review?
 SELECT AGE(NOW(), date) as time_passed from reviews
-order by time_passed desc
+order by time_passed asc
 LIMIT 1
 
 
