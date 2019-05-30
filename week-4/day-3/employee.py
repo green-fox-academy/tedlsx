@@ -60,8 +60,12 @@ def employee_create():
 
     data_json = json.load(e2)
     for line in data_json:
-        cur.execute("insert into employee2 values (%s, %s, %s, %s, %s, %s, %s)", [line["id"], line["name"], line["birth_date"], line["nationality"], line["gender"], line["monthly_salary"], line["university"]])
+        dict_value = [line["id"], line["name"], line["birth_date"], line["nationality"], line["gender"], line["monthly_salary"], line["university"]]
+        cur.execute("insert into employee2 values (%s, %s, %s, %s, %s, %s, %s)", dict_value)
         con.commit()
+
+    e1.close()
+    e2.close()
 
     # for elem in root:
     #     for subelem in elem:
