@@ -17,12 +17,10 @@ boo.toString()
 
 
 
-class bookshelf(book):
+class bookshelf():
     def __init__(self, booklist = []):
         self.booklist = booklist
-        
-        
-    
+          
     def add(self, new_author, new_title, new_year, page_num = 0):
         if page_num == 0:
             book_string = book(new_author, new_title, new_year)
@@ -110,9 +108,6 @@ a.add("b", "asd", "1444")
 a.add("b", "asd", "1444")
 a.toString()
 
-a = Hardcover()
-
-
 ### Bookshelf
 class Book:
     def __init__(self, title, author, year, page_num, weight):
@@ -128,10 +123,7 @@ class Book:
 class hardcover(Book):
     def __init__(self, title = "", author = "", year = "", page_num = 0, weight = 0) :
         Book.__init__(self, title, author, year, page_num, weight)
-        self.title = title
-        self.author = author
-        self.year = year
-        self.page_num = page_num
+
         self.weight = self.page_num * 10 + 100
 
     def toString(self):
@@ -140,10 +132,7 @@ class hardcover(Book):
 class paperback(Book):
     def __init__(self, title = "", author = "", year = "", page_num = 0, weight = 0):
         Book.__init__(self, title, author, year, page_num, weight)
-        self.title = title
-        self.author = author
-        self.year = year
-        self.page_num = page_num
+
         self.weight = self.page_num * 10 +20
     
     def toString(self):
@@ -151,11 +140,11 @@ class paperback(Book):
 
 
 a = hardcover("a.title", "a.author", "1234", 24)
-a.toString()
+print(a.toString())
 b = paperback("b.title", "b.author", "2009", 45)
 
 
 my_bookshelf = bookshelf([a,b])
-my_bookshelf.find_lightest()
-my_bookshelf.find_mostpages()
+print(my_bookshelf.find_lightest())
+print(my_bookshelf.find_mostpages())
 
