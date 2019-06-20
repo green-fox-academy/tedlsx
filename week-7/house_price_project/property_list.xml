@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+  <area_name>
+</area_name>
+  <bounding_box>
+    <latitude_max>51.322668</latitude_max>
+    <latitude_min>50.812238</latitude_min>
+    <longitude_max>-2.241007</longitude_max>
+    <longitude_min>-3.827552</longitude_min>
+  </bounding_box>
+  <country>England</country>
+  <county>Somerset</county>
+  <latitude>51.067453</latitude>
+  <listing>
+    <agent_address>35 Cadogan Street, London</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(589430).png</agent_logo>
+    <agent_name>Strutt &amp; Parker - National Country House Department</agent_name>
+    <agent_phone>020 8115 0265</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Bristol</county>
+    <description>Weston Lodge is a most appealing Grade II listed house dating from the mid 18th century and believed to have originated as a hunting lodge forming part of the local Miles estate. The handsome stucco elevations have large regularly spaced windows and a central porch on thefaçade making a welcoming entrance point. The present owners have done much to restore and improve the house since acquiring the property in 2007. There are many fine original architectural features such as stone and wooden floors, ornate ceiling mouldings, working shutters and fireplaces. Of particular note is the delightful central staircase with mahogany banister. The comprehensive improvements include replacements of the wiring, joinery (as required) plumbing and heating system. The benefits are ca T 5 cabling, air source underfloor heating to the house (ground source to the cottage), sound system, cctv and alarm system. On entering the large central hall there is a feeling of space and light typical of Georgian houses. The elegant rooms flow around the hall and all enjoy views of th e gardens and woodland which form part of the property. A reception hall has been fitted with a bar to enhance the entertaining space. The kitchen/breakfast room is a large room, ideally placed neighbouring the hall and the drawing room, with extensive cabinets and cupboards including an island unit and breakfast bar topped with granite and hard wood work surfaces and fitted with good quality white goods. The first floor provides bedrooms and bathrooms with the luxury main suite comprising bedroom, dressing room and bathroom. There are 4 further bedrooms and a further bathroom and shower room being accessible by the secondary stairs.Weston Lodge is well situated in the North Somerset countryside. Communications are excellent with a railway station at Nailsea &amp; Backwell (7 miles) linking to Bristol Parkway (14 miles), Bristol Temple Meads (11.5 miles) and Bristol Airport (12 miles).There are some excellent schools in the area including Clifton College, Clifton High School, Bristol Grammar School, Badminton, Queen Elizabeth Hospital School and The Downs School, Wraxall.A number of highly regarded golf courses can be found nearby, these include Bristol and Clevedon Golf Club, Ashton Court Mansion Golf Club and Long Ashton Golf Club. Bristol has a number of sporting clubs including first class rugby, county cricket and championship football. Fishing is available on rivers Frome, Wye and Avon as well as Barrow Reservoir, Chew Valley and Blagdon Lakes.Local Shopping can be found in Portishead, and Clevedon with more extensive shopping available at Cribbs Causeway andCabot Circus.The CottageA detached single storey cottage. The property underwent a comprehensive renovation and provides excellent secondary accommodation which is independent of the main house. There are 2 bedrooms and a private garden.Gardens And GroundsThe property is approached over a long private drive from the centre of the village. Passing through woodland belonging to the property before opening up to sweeping lawns which border both the house and the walled garden. The drive leads to the rear of the house and alarge enclosed gravel forecourt. A second drive (drive 2, coloured light pink on the plan) provides access to Valley Road to the east of the property. A wide stone path lined with clipped box leads to the walled garden. Restored and landscaped to provide wide flagstone paths and open lawns. There is an established shrub and flower bed along the northern wall enjoying the southerly aspect and the former potting shed have been restored. To the west of the house is the tennis court. The open pasture land extends to 10 acres and is to the east of the house. The woodland extends to 15 acres and is to the south and west of the house.Lot 2 - The BarnsA range of former outbuildings have consent for conversion into three dwellings. The buildings require development. Separated from the property by a high stone wall. In the event Lot 2 is not purchased with Lot 1 the owners will retain the drive (drive 2 coloured light punk on the plan) to the east to serve as access to this site and any future dwellings.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/48797779?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Hill Lane, Weston-In-Gordano, Bristol BS20</displayable_address>
+    <first_published_date>2019-04-18 00:25:51</first_published_date>
+    <floor_plan>https://lc.zoocdn.com/d0acf0e9dd979bd89e3ef4401a899c60db27e50b.jpg</floor_plan>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/da080371d16157eb83885d7010d8491dfbda42e7.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/da080371d16157eb83885d7010d8491dfbda42e7.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/da080371d16157eb83885d7010d8491dfbda42e7.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/da080371d16157eb83885d7010d8491dfbda42e7.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/da080371d16157eb83885d7010d8491dfbda42e7.jpg</image_80_60_url>
+    <image_caption>Picture No. 01</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/da080371d16157eb83885d7010d8491dfbda42e7.jpg</image_url>
+    <last_published_date>2019-04-18 00:25:51</last_published_date>
+    <latitude>51.465576</latitude>
+    <listing_id>48797779</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-2.799919</longitude>
+    <num_bathrooms>0</num_bathrooms>
+    <num_bedrooms>5</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>5</num_recepts>
+    <outcode>BS20</outcode>
+    <post_town>Bristol</post_town>
+    <price>3000000</price>
+    <price_change>
+      <date>2019-04-18 00:21:40</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>3000000</price>
+    </price_change>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Detached house</property_type>
+    <short_description>An appealing Grade II listed house set amid 27 acres and offering development potential. Available as a whole or in two lots</short_description>
+    <status>for_sale</status>
+    <street_name>Hill Lane</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/da080371d16157eb83885d7010d8491dfbda42e7.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>Cutcombe Market, Wheddon Cross, Minehead</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(505086).png</agent_logo>
+    <agent_name>Exmoor Farmers Livestock Auctions Ltd</agent_name>
+    <agent_phone>01643 238977</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>IntroductionGreat Nurcott comes to the market following the Vendor's recent decision to dissolve the farming partnership, the property having been occupied by the same family for over 100 years. This sale thereby affords potential purchasers an extremely rare opportunity to acquire an outstanding residential and commercial livestock holding occupying an exceptional position within the unspoilt countryside of the Exmoor National Park, providing considerable sporting and amenity appeal.DirectionsFrom Taunton take the A358 in a north westerly direction towards Minehead and after about 6 miles turn left onto the B3224 sign posted Elworthy and Ralegh's Cross. Follow this road for about 5.5 miles and at Elworthy Cross continue straight over into the Exmoor National Park. After passing the Ralegh's Cross Inn continue for about 0.6 miles and bear right beside the Brendon Hills Methodist Church, remaining on the B3224 towards Wheddon Cross. Follow this road for about 7 miles into Wheddon Cross and turn left. Stay on this road for about 3 miles before turning right for Winsford. Upon reaching Winsford continue straight through the village heading for Exford and Simonsbath whereupon the entrance drive to Great Nurcott will be found approximately 1 mile along this road on the right hand side.SituationThe property is situated in a sought after part of the picturesque Exmoor National Park accessed over a long private drive in a south facing position, enjoying outstanding views over the surrounding countryside. The setting is superb, lying well positioned within its own land in some of the most attractive countryside in the county comprising a beautiful and varied landscape primarily dominated by traditional agriculture interspersed with charming villages and farmsteads, with an abundance of pasture, woodland and open moor.Whilst the setting is rural the property still enjoys easy access to the surrounding districts, being within convenient driving distance of the popular Exmoor villages and towns of Winsford, Exford and Dulverton. Winsford itself is an extremely pretty village providing a parish church, village hall, post office/village stores, restaurant, and village cricket club, whilst the nearby A396 provides a useful link to Minehead, Dulverton, Bampton and Tiverton. The larger towns of Minehead and Dulverton offer a more comprehensive range of everyday shopping, banking and scholastic facilities, including primary and middle schools. Secondary schooling is available at Minehead or Wiveliscombe, with independent schools at Taunton, Wellington, West Buckland and Tiverton.Access to the M5 motorway is available at Taunton (J25), as well as Wellington (J26) and Tiverton (J27). Main line stations at Taunton and Tiverton Parkway provide a fast rail service to London (Paddington) with international airports available at Bristol and Exeter.Sporting and RecreationIn itself the property occupies a position within south west England renowned for both the diversity of its countryside and for the many varied sporting and recreational facilities available, either within the immediate vicinity or further afield. The Exmoor National Park boasts an abundance of foot and bridle paths and hunting may be enjoyed with several noted packs. For the equestrian inclined there are numerous active pony clubs in the area, point-to-points, polo clubs and National Hunt Steeplechase meetings held regularly at the Taunton Racecourse. Coarse and game fishing, together with sailing, exists on a number of local reservoirs, lakes and rivers, including nearby Wimbleball Lake. The spectacular north coast provides sea fishing, surfing and sailing, as well as pretty coastal villages and towns such as Lynton, Lynmouth, Porlock and Watchet.DescriptionThe property briefly comprises a substantial detached Grade II listed farmhouse of traditional construction affording well-proportioned six bedroomed accommodation. One wing of the house is currently disused and in a severely dilapidated condition, although this part could be easily incorporated back into the main house or utilised for the creation of a self-contained annexe, subject to any necessary planning and/or listed building consents.Situated adjacent to the farmhouse are a fine range of traditional stone buildings eminently suited to alternative uses such as holiday cottages, shooting lodges, annexe, studios or offices, subject to obtaining the appropriate planning consent. There is a further range of adaptable modern farm buildings well suited to a variety of livestock enterprises.The farmstead itself is conveniently positioned within the surrounding land, which is primarily contained within a ring fence and enjoys extensive road frontage and access. Currently utilised for the breeding, rearing and grazing of livestock and fodder production, the holding also incorporates a number of highly regarded commercial pheasant drives with associated release pens, game cover crops and woodland. In total Great Nurcott extends to about 457.06 Acres (185.02 Ha).The property is offered for sale by private treaty, either as a whole or in a combination of up to 4 lots as described within these sale particulars:-Lot 1 - The Farmhouse, Farm Buildings and Land extending to about 222.03 AcresThe FarmhouseA character traditional farmhouse, which despite now requiring updating and modernisation, affords the potential to create an exceptionally attractive and highly individual family home occupying a secluded south facing position. A spacious entrance porch with an original heavy studded front door leads into the entrance hall, with an enclosed staircase to the first floor.The large Dining Room has exposed ceiling beams, a window seat and a stone open fireplace (possibly concealing an original inglenook) with a walk in cupboard to one side. A similary well proportioned Sitting Room has exposed chamfered beams, a window seat and a tiled open fireplace (also possibly concealing an original inglenook) with an enclosed early spiral staircase (disused) to one side.The Farmhouse Kitchen boasts an impressive walk-in inglenook fireplace with a bread oven, slate hearth, original witches window and fireside seat. An oil-fired Rayburn provides cooking and domestic hot water with small range of base cupboard and drawer units and a stainless steel sink.A door from the kitchen leads into a Rear Hall with secondary stairs rising to first floor. The Dairy still retains a slate cold shelf, with steps leading up into the adjoining disused wing which is in a dilapidated condition and contains a further Cellar and Store. Situated off the kitchen is a utility/boot room with a glazed sink, cloakroom off and doors to outside.On the First Floor there are five bedrooms situated off the main landing, with a rear landing providing access to a further bedroom and the family bathroom. A door from Bedroom 2leads through into two further rooms on the first floor of the disused wing. Please note: This area should not be entered when viewing. For approximate room dimensions and layout please refer to the enclosed floorplan.OutsideA private entrance drive bisects the holding, rising to the east of the farmhouse and terminating in a large courtyard area off which are situated the principal range of farm buildings. A pedestrian path provides access to the front, flanked by shrub borders and principally lawned within walled and laurel hedged boundaries. Steps lead down to a lower garden area. To the rear is an enclosed courtyard providing access to the farmhouse with a part stone and gi roofed open sided Fuel Store. A side access leads to the rear of the farmhouse and to an inner courtyard containing the domestic oil tank and flanked by the west wing.To the north are further dilapidated traditional outbuildings, with attached Stable Block of stone and slate roofed construction, containing Three Loose Boxes and further Pony Box with loft over. Adjoining Tack Room.The Farm BuildingsSituated on the opposite side of the entrance drive, the buildings consist of an amalgam of both tradition and more modern construction. Although presently utilised for mixed livestock purposes they are nevertheless adaptable to a variety of alternative uses allied to the residential enjoyment of the property. They may be further described as follows:-Stone and slate roofed Workshop, 25'1&quot; x 11'3&quot; (7.65m x 3.43m), with double doors to one end.Three bay steel and fibre cement roofed Dutch Barn, 45' x 23'9&quot; (13.71m x 7.24m), with adjoining Covered Yard, 45' x 24'5&quot; (13.71m x 7.45m), with part block and gi clad elevations.Stone and fibre cement roofed former Threshing Barn, 39' x 16' (11.89m x 4.88m), with door to ground level at rear and various Loose Houses below and accessed from the lower yard. Adjoining is a range of part stone, part block and corrugated fibre cement roofed former Calf Houses, 27'6&quot; x 10'1&quot; (8.39m x 3.08m), with further attached range of similar construction, 64'10&quot; x 10'7&quot; min. (19.76m x 3.24m min.).Three bay steel and fibre cement roofed Covered Yard, 58'7&quot; x 34'7&quot; (17.86m x 10.55m), with part block walls and part concrete floor. Adjoining two bay Fodder Store, 39'4&quot; x 34'7&quot; (12m x 10.55m), of similar construction.Situated below the house and accessed from the entrance drive is a modern Sheep House, 240' x 110' (73.15m x 33.53m), of timber and profile steel roofed construction with overhanging eaves to either side. Further central feed passage. Internal handling area with sheep dip flanked with concrete floors and draining pens. The building has a capacity for about 1600 ewes. Adjoining hardened yard with two rsj and timber panelled Open Silage Clamps, approx. 108' x 25' (32.92m x 7.64m) and 108' x 24'10&quot; (32.92m x 7.59m). Concrete floor throughout with effluent tank.The LandPrincipally contained within a ring fence the farmland provides a diversity of topography ranging from exceptionally productive permanent pastures and leys which have historically been used in part for arable rotations to more steeply sloping coombes, in part afforested to both coniferous and broad leafed woodland. It is a holding which possesses agricultural productivity as well as sporting, amenity and conservation appeal.In total, Lot 1 extends to about 333.04 (89.03 Ha) as shown shaded pink on the identification plan.Lot 2: Pasture Land extending to about 82.69 AcresAn attractive block of productive pasture land situated immediately to the south of Lot 1 enjoying frontage to and access from the quiet council road known as Upcott Lane. Contained within this lot, situated adjacent to the road, is a useful 3 bay steel and fibre cement roofed Dutch Barn, 45'3&quot; x 28'10&quot; (13.80m x 8.80m), with an adjoining Lean-to, (45'3&quot; x 19'6&quot; (13.80m x 5.96m). Lot 2 is shown shaded yellow on the identification plan.Lot 3: Pasture and Amenity Woodland extending to about 109.66 AcresThis is another excellent block of productive agricultural land, bisected from the main holding by Upcott Lane from which this lot enjoys good frontage and access. The land comprises an undulating pasture, well suited to livestock grazing and fodder production. An attractive parcel of mixed deciduous woodland is situated on the southern periphery of this lot, overlooking the village of Winsford and known as Berry Cleave Wood. Lot 3 is shown shaded blue on the identification plan.Lot 4: Pasture and Amenity Woodland extending to about 42.68 AcresThis is an exceptionally attractive block of versatile land, bisected by the River Exe and comprising an amalgam of productive level meadow pasture, amenity broad leafed woodland and more steeply sloping amenity pasture. As well as being agriculturally productive it also possesses considerable amenity and sporting appeal. Lot 4 is shown shaded green on the identification plan.General RemarksTenure and PossessionThe property is of freehold tenure with the benefit of vacant possession of all parts, subject to any rights of holdover which may be required, depending upon the date of completion.ServicesMains electricity connected to the farmhouse, cottages and principle farm buildings. Private water supply to the farmhouse, farm buildings and troughs upon some of the land. The majority of the land benefits from natural spring and stream watering. Drainage of farmhouse to a private system.In the event of the property being sold in lots adequate provision will need to be made for appropriate easements and rights for services.OutgoingsThese are believed to comprise of local Council Tax, on Great Nurcott Farmhouse - Band E, together with the usual service and environmental charges where applicable.Fixtures and FittingsAll fixtures and fittings, unless specifically referred to within these sale particulars are otherwise expressly excluded from the sale.Basic Payment SchemeBasic payment entitlements for the relevant area of land will be included in the sale and the Vendors agree to use their best endeavours to transfer the entitlements to the Purchaser subject to receiving written instructions. On request of this transfer the Purchaser will be responsible for the Vendors Agents reasonable costs incurred in completing the relevant transfer documents.Rights of Way, Easements, Wayleaves EtcA public footpath crosses the land contained within Lot 4. The property is offered and as far as required by the vendors will be conveyed subject to all other rights of way, easements, wayleaves, privileges and advantages, either public or private, whether specifically referred to in these particulars of sale or not.DesignationsThe land has been entered into a 10 year Environmental Stewardship agreement (Agreement No. AG00520472) with Natural England which commenced on the 1st May 2014. The land currently receives payments under the Uplands Entry Level Stewardship and Higher Level Stewardship schemes totalling approximately £13,900 per annum.Prospective purchasers should satisfy themselves as to the contents and obligations of the above agreement and will covenant to farm in accordance with the management prescriptions. Copies of the Environmental Stewardship agreement are available from the agents upon request.Sporting RightsThe shooting rights across the property are to be included in the sale. These rights are currently let, together with some small areas of game cover crop, to a neighbouring pheasant shoot on an annual basis.It is understood that the double bank fishing rights on the River Exe are included in the sale of the property.The hunting rights across the property have been vested in the Badgworthy Land Company.Fencing ObligationThe Purchaser of Lot 1 will be responsible, within two months of the completion date, for the erection and future maintenance of a new stock proof fence between points A and B shown on the identification plan.Town and Country PlanningGreat Nurcott farmhouse and is associated traditional farm buildings are listed Grade II, being of special architectural or historic interest. Further details are available on the Historic England website.The current use of the farm buildings is agricultural although there may be scope for prospective purchasers to consider alternative uses within the farm buildings, subject to obtaining the necessary planning consent from Exmoor National Park Authority.Live and Deadstock SaleThe right is reserved to hold a sale by auction on the premises of the live and dead farming stock prior to the date of completion.Local AuthoritySomerset County Council, County Hall, Taunton, Somerset, TA1 4DY. Tel: Exmoor National Park Authority, Exmoor House, Dulverton, Somerset, TA22 9HL. Tel: West Somerset Council, West Somerset House, Killick Way, Williton, Taunton, Somerset, TA4 4QA. Tel: Ingoing ValuationIn addition to the purchase price for the property, the Purchaser of Lot 1 may be required to take over and pay for the items detailed below by way of an ingoing valuation:-Any bagged or wrapped silage, hay and straw at market value.Clamped silage at consuming value.Any consumable stores, fertilisers, fuel, oils and other stores at cost price.The valuation will be carried out by the Vendors Agents whose decision shall be final and binding on behalf of the Vendors and Purchaser. All valuation monies shall be liable at the time of completion, together with the Valuers fees and expenses which will be borne equally by the parties. Any unpaid sums following completion shall incur interest at the contract rate until settled.The Purchaser will have the option to appoint their own Valuer. This option shall be exercised on the signing of the sale contract. In the event of such an option being exercised and in the event of the Valuers failing to agree the valuation by the date of completion, the valuation will be settled by an Arbitrator to be appointed by the President for the time being of the Central Association of Agricultural Valuers.Important NoticeAll persons wishing to view the property do so entirely at their own risk. Neither the Vendors or their Agents will be held liable for any damage or injury that may occur when interested parties are visiting the property.Greenslade Taylor Hunt and Exmoor Farmers Livestock Auctions Ltd. For themselves and for the Vendors of the property whose agents they are give notice that:-- these particulars are set out as a general outline only for the guidance of intending purchasers and do not constitute, nor constitute part of, an offer or contract. Prospective purchasers should seek their own professional advice.- all descriptions, dimensions, areas, reference to condition, necessary permissions for use and occupation, and all other details are given in good faith and are believed to be correct. Any intending purchasers should not rely on them as statements or representations of fact but must satisfy themselves by inspection or otherwise as to the correctness of each of them.- no responsibility can be accepted for any expenses incurred by any intending purchasers inspecting properties that have been sold, let or withdrawn.No person in the employment of Greenslade Taylor Hunt or Exmoor Farmers Livestock Auctions Ltd. Has any authority to make or give any representation or warranty whatsoever in relation to the property or the particulars.Measurements and Other InformationAll measurements are approximate. The field numbers and areas shown on the attached plan are based on the Ordnance Survey and are for identification purposes only. They do not necessarily correspond either with the National Grid plan numbers or with those to be produced on the Rural Land Register.Whilst we endeavour to make our sales particulars as accurate and reliable as possible, if there are any point which is of particular importance to you please contact the office, especially if you are contemplating travelling some distance to view the property. We have not tested any of the equipment, appliances, central heating or services</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/50785419?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Winsford, Minehead TA24</displayable_address>
+    <first_published_date>2019-03-13 10:51:53</first_published_date>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_80_60_url>
+    <image_caption>
+</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_url>
+    <last_published_date>2019-03-14 04:08:08</last_published_date>
+    <latitude>51.11568</latitude>
+    <listing_id>50785419</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-3.566586</longitude>
+    <num_bathrooms>0</num_bathrooms>
+    <num_bedrooms>0</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>0</num_recepts>
+    <outcode>TA24</outcode>
+    <post_town>Minehead</post_town>
+    <price>2975000</price>
+    <price_change>
+      <date>2019-03-13 10:51:06</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>2975000</price>
+    </price_change>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Farm</property_type>
+    <short_description>An attractive and well situated Residential and Commercial Livestock Holding with sporting appeal occupying an outstanding rural position within the sought after Exmoor National Park; In all about 457.06 Acres. Available as a whole or in up to 4 lots.</short_description>
+    <status>for_sale</status>
+    <street_name>Winsford</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>Clifton House, 10 Poole Hill, Bournemouth</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(310695).png</agent_logo>
+    <agent_name>Elite Property Search</agent_name>
+    <agent_phone>01202 332375</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>Large Country house on the Dorset/Somerset borders with fantastic views•4 Receptions•5/6 beds•3 Bathrooms/shower rooms•Study•Large Orangery/conservatory•Outbuildings including Stabling, Tack room, Playroom and garages•Gardens, Copse and Paddocks•8 acres•Guide Price £2.25mThe property listed is only one of many privately available properties exclusive to Elite Property Search. For further information on how to access these opportunities or to inform us of your property's availability or your search requirements please contact Elite Property Search.Please Note: To purchase a property through Elite Property Search an agency fee will be incurred by the buyer.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/43906200?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Church Lane, North Perrott, Crewkerne TA18</displayable_address>
+    <first_published_date>2017-05-22 15:54:50</first_published_date>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</image_80_60_url>
+    <image_caption>
+</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</image_url>
+    <last_published_date>2018-04-17 18:44:30</last_published_date>
+    <latitude>50.88269</latitude>
+    <listing_id>43906200</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-2.749436</longitude>
+    <num_bathrooms>3</num_bathrooms>
+    <num_bedrooms>6</num_bedrooms>
+    <num_floors>3</num_floors>
+    <num_recepts>4</num_recepts>
+    <outcode>TA18</outcode>
+    <post_town>Crewkerne</post_town>
+    <price>2250000</price>
+    <price_change>
+      <date>2017-05-22 15:54:06</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>2250000</price>
+    </price_change>
+    <property_type>Detached house</property_type>
+    <short_description>Large Country house on the Dorset/Somerset borders with fantastic views</short_description>
+    <status>for_sale</status>
+    <street_name>Crewkerne</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/06b5b09d1abf6a1f0268080006a999edcc12f912.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>2 Court Ash, Yeovil</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(628175).png</agent_logo>
+    <agent_name>Symonds &amp; Sampson - Yeovil</agent_name>
+    <agent_phone>01935 590011</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>A 50 acre residential farm comprising two dwellings (5,79Sqft residential accommodation) with outstanding equestrian facilities including 28 livery stables and 10 private stables, two riding arenas, and a horse walker.Please contact Symonds &amp; Sampson for further details of the property.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/26664456?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>East Coker, Yeovil, Somerset BA22</displayable_address>
+    <first_published_date>2015-01-10 00:22:45</first_published_date>
+    <floor_plan>https://lc.zoocdn.com/8a03ede121f580daebe0148af9449b877fcc0ee9.jpg</floor_plan>
+    <floor_plan>https://lc.zoocdn.com/f1c3e11fee51b87fc3d7e4de3849b74e32c2fbff.jpg</floor_plan>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</image_80_60_url>
+    <image_caption>Picture No.31</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</image_url>
+    <last_published_date>2019-03-26 16:39:08</last_published_date>
+    <latitude>50.916737</latitude>
+    <listing_id>26664456</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-2.638569</longitude>
+    <num_bathrooms>5</num_bathrooms>
+    <num_bedrooms>8</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>4</num_recepts>
+    <outcode>BA22</outcode>
+    <post_town>Yeovil</post_town>
+    <price>1875000</price>
+    <price_change>
+      <date>2015-01-09 20:58:12</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>2400000</price>
+    </price_change>
+    <price_change>
+      <date>2015-01-10 12:24:06</date>
+      <direction>up</direction>
+      <percent>8.3%</percent>
+      <price>2600000</price>
+    </price_change>
+    <price_change>
+      <date>2017-03-17 11:52:19</date>
+      <direction>down</direction>
+      <percent>-1.9%</percent>
+      <price>2550000</price>
+    </price_change>
+    <price_change>
+      <date>2017-03-31 10:48:24</date>
+      <direction>down</direction>
+      <percent>-1.9%</percent>
+      <price>2500000</price>
+    </price_change>
+    <price_change>
+      <date>2017-07-06 18:09:14</date>
+      <direction>down</direction>
+      <percent>-4%</percent>
+      <price>2400000</price>
+    </price_change>
+    <price_change>
+      <date>2017-09-07 11:00:34</date>
+      <direction>down</direction>
+      <percent>-21.8%</percent>
+      <price>1875000</price>
+    </price_change>
+    <price_change_summary>
+      <direction>down</direction>
+      <last_updated_date>2017-09-07 11:00:34</last_updated_date>
+      <percent>-21.8%</percent>
+    </price_change_summary>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Equestrian property</property_type>
+    <short_description>A 50 acre residential farm comprising two dwellings (5,79Sqft residential accommodation) with outstanding equestrian facilities including 28 livery stables and 10 private stables, two riding arenas, and a horse walker.  Please contact Symonds &amp;amp; Sampson for further details of the property.</short_description>
+    <status>for_sale</status>
+    <street_name>Yeovil Somerset</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/1eaccaed25df7a863d0288d89aff25195d21f126.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>24 Southernhay West, Exeter</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(589430).png</agent_logo>
+    <agent_name>Strutt &amp; Parker - Exeter</agent_name>
+    <agent_phone>01392 976694</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>The Lynch is a modern five bedroom house which has been built to an exceptionally high specification to provide an unrivalled level of luxury. The property offers approximately 6,400sq ft of living space, plus a studio apartment situated above the garage. The south-facing property is wonderfully spacious and light, with high ceilings and large windows in all of the rooms.The front door opens into a welcoming reception hall which leads to the main reception rooms. To the right is a quadruple-aspect octagonal drawing room with a Chesney fireplace with a marble mantelpiece providing a focal point, and marble windowsills. There is a wet room to the left of the entrance hall, with a very large walk-in rain shower, fully tiled in limestone and fittings made by Villeroy and Boch. The sitting room, adjacent to the drawing room, is a bright, south-facing room with French doors leading out to a terrace. The stylish kitchen/breakfast room is to the rear of the house, with a marble floor, granite windowsills, bespoke hand built Mark Butterfield units and granite worktops. The kitchen features state of the art appliances including a sub-zero fridge freezer, two Gaggenau dishwashers, a Gaggenau coffee machine, Miele steam oven and microwave, extractor fan, a Mercury Range cooker, Kohlar sinks and Dornbracht taps. There is also a large island with granite worktops. The kitchen leads through to a dual-aspect garden room with a contemporary Scan wood burner and granite hearth, a bespoke orangery-style hardwood roof and bifolding doors leading out to the garden. Far-reaching views towards Wellington Monument and the Blackdown Hills can be enjoyed from this room.Also found to the rear of the house is a magnificent 35’x16’ dining room with a bespoke glass lantern ceiling, granite window sills and an ornate art nouveau cast iron fireplace with a granite hearth. Accessed from the dining room is aseparate utility room, with bespoke hand built maple units and Carrara marble work surfaces, plus a butler’s pantry with a Kohlar sink and Dornbracht taps, and a full size built-in refrigerator and freezer.Four further reception rooms complete the ground floor: A TV room, music room, home cinema and a study with bifold doors that can be used to extendthe dining room. The TV room is a bright and spacious triple-aspect room, which leads to the semi-octagonal music room with a wooden vaulted ceiling. Accessed from the TV room, the purpose-built cinema room has tiered seating for ten people, a commercial Simm 2 projector, Monitor audio speakers, Pioneer av equipment and mood lighting.On the first floor are five double bedrooms, two with en suite facilities, and with lovely views and bespoke fitted wardrobes. The master suite is an octagonal quadruple-aspect room with marvellous far-reaching views to Wellington Monument and the Blackdown Hills. This room has the benefit of a full marble bathroom with a sunken egg-shaped bath, his and hers basins, a large walk-in rain shower with wall jets and Villeroy and Boch fittings with Hansgrohe taps. The master suite also has a bespoke dressing room with a heated marble floor. A bespoke, limestone family bathroom completes the first floor, with a hexagonal semi sunken bath with a heated TV screen set within the wall, a large walk-in shower with wall jets and Villeroy and Boch fittings with Handsgrohe taps.The Lynch is situated in a very private, rural location approximately 0.7 miles outside of the pretty village of Nynehead. Despite its secluded location, The Lynch is conveniently located to access a number towns and cities including Wellington, Taunton, Exeter and Bristol. Wellington, approximately 4 miles away, offers a wide range of independently run shops and larger national stores including a Waitrose, and the prestigious Wellington School and Wellesley Park primary school.Taunton, approximately 7 miles away, has a good range of shopping facilities and a thriving farmers’ market. There are also many excellent local producers and artisan farm shops. The Musgrove Park and Nuffield Hospitals serve the town and surrounding area. There are excellent schools for boys and girls of all ages including Taunton School, Kings College, Queen’s College and King’s Hall. Other well-known schools in the area includeMillfield and Blundell’s, all within driving distance.The cathedral city of Exeter, approximately 29 miles away, offers a wide choice of cultural activities with theatres, the ramm museum, an arts centre and a wealth of good shopping and restaurants, including John Lewis and a Waitrose supermarket. There are several primary and secondary schools, both state and independent, and Exeter University is recognised as one of the leading universities in the country.Communications are excellent with the M5 motorway at Taunton providing links to the A38 to Plymouth, the A30 to Cornwall, and Bristol and London to the north and east. There are regular rail services to Bristol and London from Taunton, taking as little as 1 ½ hours to London. Exeter International Airport, 28 miles away, provides an ever-increasing number of domestic and international flights, including two flights a day toLondon City Airport. Bristol Airport, approximately 43 miles away, provides an even greater number of international flights and connections.The property is approached via a long private driveway which leads to a double garage and a gravelled drive providing ample parking space for numerous vehicles. Above the double garage is a studio apartment with a kitchenette and an adjoining shower room. This has previously been used for a housekeeper/nanny but offers the potential for a variety of uses.The large gardens at The Lynch have been thoughtfully designed to create a wonderful easy to maintain space, offering a high degree of privacy. The gardens are mainly laid to lawn witha variety of attractive shrubs and trees within landscaped borders, plus areas of woodland to the north and south of the house. There is a very large pond with a waterfall within the gardens and a paved terrace provides an ideal space for al fresco dining and entertaining. Exquisite views can be enjoyed from here of the surrounding landscape towards Blackdown Hills and Wellington Monument beyond. Within the gardens there is also a blackswimming pool measuring 11m x 5m, on a raised terrace, with a summer house overlooking the pool.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/48905557?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Nynehead, Wellington, Somerset TA21</displayable_address>
+    <first_published_date>2019-04-26 00:25:54</first_published_date>
+    <floor_plan>https://lc.zoocdn.com/9013d06e75e7f60ce5b4d873fa12dff5e43a80ae.jpg</floor_plan>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</image_80_60_url>
+    <image_caption>The Lynch</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</image_url>
+    <last_published_date>2019-06-11 13:14:28</last_published_date>
+    <latitude>51.000244</latitude>
+    <listing_id>48905557</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-3.237185</longitude>
+    <num_bathrooms>5</num_bathrooms>
+    <num_bedrooms>5</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>8</num_recepts>
+    <outcode>TA21</outcode>
+    <post_town>Wellington</post_town>
+    <price>1850000</price>
+    <price_change>
+      <date>2019-04-26 00:20:48</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>1850000</price>
+    </price_change>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Detached house</property_type>
+    <short_description>A beautifully secluded, high specification, bespoke family home offering over 6,000 sqft of adaptable accommodation. 5/6 bedrooms, 7/8 reception rooms, separate auxiliary accommodation. Exceptional standard of refurbishment by the current owners.</short_description>
+    <status>for_sale</status>
+    <street_name>Nynehead</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/17c47998ae1fe6ee616391dd87d72f13e52ca61b.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>24 Southernhay West, Exeter</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(589430).png</agent_logo>
+    <agent_name>Strutt &amp; Parker - Exeter</agent_name>
+    <agent_phone>01392 976694</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>Whipcott Heights is a substantial detached country house, with five bedrooms and an attached one-bedroom annexe, plus seven holiday cottages. Converted from a traditional stone barn around 1990, the property has welcoming, spacious accommodation throughout, with splendid gardens and views across the surrounding countryside, while the property also benefits from a stables complex.On the ground floor is a 26ft sitting room, with attractive exposed stonework and an impressive open fireplace, plus French doors opening onto the sunny south-facing conservatory, with its wonderful countryside views. There is also a cosy snug, for enjoying relaxing, informal family time, while the kitchen is well equipped with a Rayburn and a separate integrated oven. The pleasant conservatory, at one end of the house, offers superb views across the surrounding countryside.Upstairs there are five bedrooms, including the master, with its en suite shower room, plus a family bathroom. The attached annexeprovides useful additional, self-containedaccommodation, which is ideal for guests orfamily members, and contains a sitting room, akitchen, a double bedroom and a bathroom.Whipcott Water Cottages:The seven cottages at Whipcott Water offer excellent income potential and are presented to a high standard. The cottages are approached via a tarmac driveway, and lie separately from the main house.Barge, Flare, Towpath, Wicket, and Wharf provide, light, airy, contemporary, self-catering accommodation. Each cottage includes a double bedroom with king-size bed upstairs, plus a twin bedroom on the ground floor. Downstairs, the cottages feature open-plan lounges/dining areas, with patio doors opening onto covered verandas, with each cottage including a luxury, private hot tub. Each of the cottages has a well-equipped kitchen and a ground floor bathroom with an over-bath shower.Barge Cottage is suitable for guests with accessibility requirements, with a larger entrance hall and wider doors to enable wheelchair access.Two of the cottages, Hopper Cottage and Paddock, completed in 2005 and 2008 respectively, are single-storey. Hopper is fully accessible for disabled persons, according to the National Accessibility Standards. Both cottages have two twin bedrooms, with en suite bathrooms. In Hopper, one bedroom has beds with electric controls, while the bathroom features a wheel-in shower, disabled toilet and washbasin. The open-plan lounge/dining room in both cottages are particularly spacious, allowing easy manoeuvrability for wheelchair users. Hopper's kitchen has a waist-high cooker, hob and sink unit, designed especially for wheelchair users.Each cottage has its own area of garden, with a paved seating area and hot tub. All of the cottages are detached, with plenty of adjoining parking space. The properties benefit from easy access, immediately across the country lane, to the canal, providing superb opportunities for walking, cycling or fishing, plus a picnic area. Whipcott Heights has mooring rights on the Grand Western Canal (subject to an annual payment). The canal access and facilities have proved to be an extremely popular feature with guests.The Business:The cottages were completed between 2000 and 2008, and each is furnished and fitted to a high-quality, contemporary standard, offering a high degree of comfort. The turnover for the business has increased steadily over the years, and further information is available from the vendor's agent. The cottages are rated 4* by VisitBritain and currently are featured in the Hoseasons select “Autograph Lodge Holiday” collection. Planning permission exists to create an additional four holiday cottages, if a purchaser wishes to expand the business further and there may be potential for further units, subject to the necessary consents.Whipcott Heights is located in a peaceful, rural location with stunning views across the surrounding countryside. The popular village of Holcombe Rogus lies a mile and a half to the west, where you will find several everyday amenities, including a local pub, a post office, a local store, a petrol station, a primary school and a church. More extensive facilities are available at Wellington, five miles away and Tiverton, eleven miles to the southwest. The larger town of Taunton and the vibrant and bustling city of Exeter are 12 miles and 22 miles respectively. The property is well connected, with easy access to the M5, six miles to the southeast, while there is a mainline railway station at Tiverton Parkway, seven miles away, providing direct services to London Paddington and Exeter.The property is set in some of the country’s most beautiful countryside, making the ciottages very attractive to holiday-makers. The North Devon and Jurassic Heritage coastlines are both within easy reach, providing opportunities for sailing and surfing. The Exmoor National Park is also just 11 miles from the property, where there are abundant opportunities for walking, riding and many other outdoor pursuits.The property is approached via a lane, which passes the property’s double garage and stables complex before arriving at the house at its end. The garage provides covered parking for two vehicles, while there is also a parking area adjacent to the house.The stables provide perfect accommodation for horses, making the property ideal for anyone with an interest in equestrianism. There are five loose boxes, including a tack room and foaling box, while the paddock to the side of the house, and a further block of pasture land with a small copse, provide the perfect environment for exercise and grazing (18.1 acres in total). There is also a vegetable patch and a poultry enclosure, plus a patio outside the conservatory, and an area of level lawn, with border flowerbeds, mature shrubs and trees.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/48627348?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Holcombe Rogus, Wellington, Somerset TA21</displayable_address>
+    <first_published_date>2018-08-04 00:44:15</first_published_date>
+    <floor_plan>https://lc.zoocdn.com/a431ac5d93a98546942af55652fa0fb8275b8961.jpg</floor_plan>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</image_80_60_url>
+    <image_caption>Whipcott Heights</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</image_url>
+    <last_published_date>2019-05-29 00:26:33</last_published_date>
+    <latitude>50.958366</latitude>
+    <listing_id>48627348</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-3.322501</longitude>
+    <num_bathrooms>3</num_bathrooms>
+    <num_bedrooms>6</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>4</num_recepts>
+    <outcode>TA21</outcode>
+    <post_town>Wellington</post_town>
+    <price>1750000</price>
+    <price_change>
+      <date>2018-08-04 00:40:49</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>1850000</price>
+    </price_change>
+    <price_change>
+      <date>2019-05-29 00:20:47</date>
+      <direction>down</direction>
+      <percent>-5.4%</percent>
+      <price>1750000</price>
+    </price_change>
+    <price_change_summary>
+      <direction>down</direction>
+      <last_updated_date>2019-05-29 00:20:47</last_updated_date>
+      <percent>-5.4%</percent>
+    </price_change_summary>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Detached house</property_type>
+    <short_description>A delightful family home, with five bedrooms and an attached annexe, plus seven superb holiday cottages, a stable block and approximately 18.1 acres</short_description>
+    <status>for_sale</status>
+    <street_name>Holcombe Rogus</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/b7b0d18546d0ec1f45f9af7215a2aa1e426f8ee0.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>13 The Parade, Minehead</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(592277).png</agent_logo>
+    <agent_name>Fox &amp; Sons - Minehead</agent_name>
+    <agent_phone>01643 829001</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>Summary* Development Opportunity * An exciting opportunity for the conversion of this country house, built by Percy Morley Horder, into 14 apartments with further planning permission for the erection of 17 new dwellings within the grounds. Site extending to approx 3.525 acres. Detailed plans available.DescriptionSituated on the Northern outskirts of Minehead, a popular Victorian seaside town, adjacent to the splendour of the Exmoor National Park, stands Periton Mead, a substantial detached residence built c.1920 by Percy Morley Horder, famous for his Arts and Crafts architecture.The site extends in total to approx. 3.525 Acres and is for sale with the benefit of planning permission having been granted for the conversion of the house to Fourteen spacious apartments which will enjoy coastal and countryside views from their elevated situation. In addition there is further planning permission for Seventeen new dwellings within the gardens with no requirements for social housing and a negligible S106 contribution.The property is situated approximately one mile from the town centre, sea front, West Somerset Steam railway line and the beautiful Blenheim Gardens which has a traditional bandstand. Minehead offers an excellent range of shopping, banking, recreational facilities to include bowls, tennis and golf. The county town of Taunton is approximately 24 miles to the east and has main line rail connections and access to the motorway network.Whilst planning permission has been granted for the re-development of the site the property could be suitable for a variety of uses (subject to consent), detailed plans and further information are available from Fox &amp; Sons.1. Money laundering regulations: Intending purchasers will be asked to produce identification documentation at a later stage and we would ask for your co-operation in order that there will be no delay in agreeing the sale.
+2. General: While we endeavour to make our sales particulars fair, accurate and reliable, they are only a general guide to the property and, accordingly, if there is any point which is of particular importance to you, please contact the office and we will be pleased to check the position for you, especially if you are contemplating travelling some distance to view the property.
+3. Measurements: These approximate room sizes are only intended as general guidance. You must verify the dimensions carefully before ordering carpets or any built-in furniture.
+4. Services: Please note we have not tested the services or any of the equipment or appliances in this property, accordingly we strongly advise prospective buyers to commission their own survey or service reports before finalising their offer to purchase.
+5. These particulars are issued in good faith but do not constitute representations of fact or form part of any offer or contract. The matters referred to in these particulars should be independently verified by prospective buyers or tenants. Neither sequence (UK) limited nor any of its employees or agents has any authority to make or give any representation or warranty whatever in relation to this property.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/51101347?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Periton Road, Minehead TA24</displayable_address>
+    <first_published_date>2019-04-11 12:18:16</first_published_date>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</image_80_60_url>
+    <image_caption>
+</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</image_url>
+    <last_published_date>2019-04-12 15:10:14</last_published_date>
+    <latitude>51.20019</latitude>
+    <listing_id>51101347</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-3.491858</longitude>
+    <num_bathrooms>10</num_bathrooms>
+    <num_bedrooms>20</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>10</num_recepts>
+    <outcode>TA24</outcode>
+    <post_town>Minehead</post_town>
+    <price>0</price>
+    <price_change>
+      <date>2019-04-11 11:57:41</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>1750000</price>
+    </price_change>
+    <price_modifier>price_on_request</price_modifier>
+    <property_type>Land</property_type>
+    <short_description>* Development Opportunity * An exciting opportunity for the conversion of this country house, built by Percy Morley Horder, into 14 apartments with further planning permission for the erection of 17 new dwellings within the grounds. Site extending to approx 3.525 acres. Detailed plans available.</short_description>
+    <status>for_sale</status>
+    <street_name>Periton Road</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/e1b05bdd4b3c615de64289d9a38d63f8ec07bfb9.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>35 Cadogan Street, London</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(589430).png</agent_logo>
+    <agent_name>Strutt &amp; Parker - National Country House Department</agent_name>
+    <agent_phone>020 8115 0265</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>Lottisham Manor was originally built as an Open Hall House in the 15th century and incorporates architectural details from alterations made during the late 16th and the 17th centuries. Set in established gardens and open pasture land all of which combine to make Lottisham Manor a most appealing home offering with history and immense charm.The house is approached over a gravel drive which forms a forecourt beside the house and coach house. The stone elevations under a clay tile roof line are complimented by stone mullion leaded windows and a trio of high stack chimneys. A central flagstone floored reception hall has wide braced doors at either end which open to front and rear elevations respectively. The large drawing room and dining room stand to either side and with the stair hall and panelled library beyond the drawing room. Architectural features abound with chamfered beams, framed ceilings with moulded beams, panelled walls and screens and fine dressed stone fireplaces. Of particular note is the large fireplace in the dining room which includes a closet thought to have originated as a priest hole. The kitchen is bordered by a scullery which opens into boot room, larder and rear hall (with secondary stairs off) and the utility room and cloakroom. On the first floor the origins of the open hall house are apparent with part of the 15th century jointed cruck roof. There are two very large bedrooms in the centre of the house with four further bedrooms and a bathroom. In addition there are two attics offering further roomsLottisham Manor is situated in the hamlet of Lottisham which has a small church. The nearby village of Baltonsborough provides a pub and primary school. The historic and cultural city of Bath provides extensive shopping and restaurants. More locally, Castle Cary, Street and Bruton provide a range of excellent local shops, pubs and restaurants, including the renowned Hauser and Wirth Art Gallery and the Roth Bar and Grill. Wells and Gillingham both provide quality supermarkets.Excellent schools in the area include Hazelgrove, Kings Bruton, Millfield and Wells. Schooling is also available further afield in Bath, Bristol, Shaftesbury and Sherborne. The surrounding countryside provides an array of sporting amenities including first class national hunt racing at Wincanton and excellent pheasant and partridge shoots. Golf clubs locally include Wheathill, Mendip, Wells and Sherborne. Road and rail links from Lottisham Manor are excellent; with a regular direct service to London Paddington from nearby Castle Cary Station (approximately 8.5 miles). Access to the A303 provides fast links to London and the West Country. Bristol Airport is approximately 26.5 miles away.A detached stone built coach house provides garaging, workshop and storage space on the ground floor. The first floor, which is accessed by a wide external stone staircase is arranged as a one bedroom flat with sitting room, kitchen area, bedroom and a bathroom. Within the gardens is a stone-built building arranged as a stables with three loose boxes (with power and water). There is a wooden stable block providing two further loose boxes and a tack room.The gardens are a significant feature of the house with wide lawns wrapping around the house and rose bordered flagstones and gravel paths leading to its many areas which include formal and informal planting schemes. The orchard, to the east of the house, has fruitful plum, pear and apple trees. The kitchen gardens with vegetable beds and soft fruits are to the south of the coach house. A water garden, created in the mid twentieth century, incorporates many specimen shrubs and trees and a small bridge to cross the garden stream. At the end of the garden is a large tennis court with netting. The whole is bordered by pasture land which extends to a field stream which runs along the extreme southern edge of the property. The field to west of the house is subject to a covenant. Further details from the selling agents</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/48580285?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Lottisham, Glastonbury, Somerset BA6</displayable_address>
+    <first_published_date>2018-08-01 10:31:14</first_published_date>
+    <floor_plan>https://lc.zoocdn.com/c3b9c9150ab54a2347a40bf4c47d8100cecdf0ec.jpg</floor_plan>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</image_80_60_url>
+    <image_caption>Picture No. 01</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</image_url>
+    <last_published_date>2019-03-09 01:27:08</last_published_date>
+    <latitude>51.109863</latitude>
+    <listing_id>48580285</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-2.612244</longitude>
+    <num_bathrooms>2</num_bathrooms>
+    <num_bedrooms>6</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>3</num_recepts>
+    <outcode>BA6</outcode>
+    <post_town>Glastonbury</post_town>
+    <price>1750000</price>
+    <price_change>
+      <date>2018-07-31 14:07:21</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>1750000</price>
+    </price_change>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Detached house</property_type>
+    <short_description>An appealing historic Manor House, listed Grade II* with delightful gardens and grounds</short_description>
+    <status>for_sale</status>
+    <street_name>Lottisham</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/1f4f30b7f8010b810ee43ee041cfc55e4bf972c9.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>10 Sadler Street, Wells</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(504982).png</agent_logo>
+    <agent_name>Killens</agent_name>
+    <agent_phone>01749 587925</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>A substantial six bedroom period property situated in the conservation area on the eastern edge of Glastonbury. Woodlands comes together with the two-bedroom Coach House, one-bedroom Annex, Studio and approximately two acres of gardens, orchard and outbuildings. The property also benefits from development potentialDescriptionWoodlands is a Grade II listed property situated in the ever popular Bove Town region of Glastonbury within an easy five-minute walk of the high street. The property is believed to date back to the 18th century with Victorian additions. The Coach House and gardens make the most of its commanding position on the elevated eastern side of Glastonbury. The house is tastefully presented, maintained to an excellent standard throughout and has been well loved and cared for over the years by the current owners. The south facing private garden and orchard makes the most of the stunning views towards Glastonbury Tor.The Main HouseOn entering the property, you are immediately faced with charm and character. The reception hall is warm and inviting with its original oak flooring and attractive staircase. The cosy snug is accessed from the reception hall consisting of a beautiful red brick inglenook fireplace along with oak shelving and exposed beams. The drawing room is found from the hallway beyond the reception hall. This impressive room has high ceilings and vast bay windows looking out over the gardens and countryside beyond as well as an open fire and original pine flooring and cornicing. The dining room has original feature fireplace and cornicing and oak flooring whilst also overlooking the garden. There is a door leading to the kitchen.The kitchen is traditional in style with a gas fired aga and a range of bespoke kitchen units. Adjoining the kitchen is the utility room and boiler room. From the kitchen there is access to the workshop and studio. There is a stable door leading to the rear garden via the porch.The charm continues to the first floor where you will find the master room which is known as “The Red Room” this double aspect room is grand in style and continues the original pine flooring. A beautiful stain glass window and en suite shower room complete the accommodation. Stairs to the loft ensue which has potential to be converted subject to the necessary planning permission.Returning to the first floor the expansive family bathroom and sitting room (sixth bedroom) can be found. The latter has wonderful french style shutters to the interior. Four further double bedrooms, one of which is en suite weave their way along the long wide landing. Three of the bedrooms have stunning views of the garden and Tor afar. The main staircase leads you back to the reception hall. There also is a second staircase leading to the ground floorThe AnnexA fully furnished one-bedroom annex with views over the front garden. The accommodation is currently separate to the main house although could be reinstated easily.Workshop/StudioA two-storey storage and workspace area with light and airy accommodation on the first floor. This has previously been used as an art studio.The Coach HouseLying within the grounds of Woodlands is the semi-detached two-bedroom coach house which can be accessed directly off the courtyard parking area. Original stabling remains in the kitchen as well as original 18th century doors. A cloakroom can also be found on the ground floor.OutsideOutside the property is approached by wooden gates which lead to the courtyard large parking area. There is plenty of parking with access to the original back door of the main house.The gardens are mainly to the southern side of the house and principally laid to lawn. The formal partly walled gardens with impressive borders, wisteria wrapping around the house and secret garden lead to the orchard at the southern boundary of the grounds. An outbuilding is found at the bottom of the orchard. There is vehicular side access to the orchard already in place possibly providing developmental potential subject to relevant planning permission. In total the grounds come to 1.98 acres.SituationGlastonbury which is situated at the bottom of The Tor is a market town steeped in history. Today Glastonbury is a popular tourist venue welcoming thousands of visitors every year. The Cathedral City of Wells which offers further amenities including regular markets, is within a short driving distance while outlet shopping is available at nearby Clarks Village in Street. Mainline rail services to London Paddington are available from Castle Cary which is 17 miles away. Bristol Airport is 23 miles away.There is a wide range of good schools nearby in both the public and private sectors. There are good state primary schools within Glastonbury and several others nearby. State secondary schools include St. Dunstans in Glastonbury itself.Private schools locally include Millfield, both prep and senior schools, All Hallows, Wells Cathedral School, Downside and King’s School Bruton.The area is also well known for its variety of sporting and leisure facilities including walking and cycling. There are leisure centres at Wells and Glastonbury and golf courses at Wheathill, Mendip and Wells. Sailing at Chew Valley Lake and fishing at both Chew Valley and Blagdon Lakes as well as various areas on the Somerset Levels. Horse Racing can be found at Bath and Wincanton.DirectionsIf approaching from Wells continue on the Wells Road past West Mendip Hospital for around a mile. Bove Town will be found on your left-hand side and Woodlands 52 can be found on your right-hand side a couple of hundred yards up Bove Town.TenureFreeholdServicesServices -Mains water, mains drainage, Gas. Oil central heating.Local AuthorityMendip District Council Telephone .Energy Performance CertificateN/AViewingsStrictly by appointment with the Vendors agent KillensFixtures And FittingsFour poster bed in The Red Room and wardrobe in The Garden Room to be included. All those items usually regarded as retained to the vendors are specifically reserved out of the sale.</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/51722280?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Bove Town, Glastonbury BA6</displayable_address>
+    <first_published_date>2019-06-10 15:03:52</first_published_date>
+    <floor_plan>https://lc.zoocdn.com/8fb46e797c840349bb0a940ec1cffe5fb47067c5.jpg</floor_plan>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</image_80_60_url>
+    <image_caption>Photo 2</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</image_url>
+    <last_published_date>2019-06-11 03:13:09</last_published_date>
+    <latitude>51.14852</latitude>
+    <listing_id>51722280</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-2.710659</longitude>
+    <num_bathrooms>4</num_bathrooms>
+    <num_bedrooms>6</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>3</num_recepts>
+    <outcode>BA6</outcode>
+    <post_town>Glastonbury</post_town>
+    <price>1700000</price>
+    <price_change>
+      <date>2019-06-10 14:58:42</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>1700000</price>
+    </price_change>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Detached house</property_type>
+    <short_description>&lt;p class=&quot;top&quot;&gt;A substantial six bedroom period property situated in the conservation area on the eastern edge of Glastonbury. Woodlands comes together with the two-bedroom Coach House, one-bedroom Annex, Studio and approximately two acres of gardens, orchard and outbuildings. The property also benefits from development potential&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Woodlands is a Grade II listed property situated in the ever popular Bove Town region of Glastonbury within an easy five-minute walk of the high street. The property is believed to date back to the 18th century with Victorian additions. The Coach House and gardens make the most of its commanding position on the elevated eastern side of Glastonbury. The house is tastefully presented, maintained to an excellent standard throughout and has been well loved and cared for over the years by the current owners. The south facing private garden and orchard makes the most of the stunning views towards Glastonbury Tor.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;The Main House&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;On entering the property, you are immediately faced with charm and character. The reception hall is warm and inviting with its original oak flooring and attractive staircase. The cosy snug is accessed from the reception hall consisting of a beautiful red brick inglenook fireplace along with oak shelving and exposed beams. The drawing room is found from the hallway beyond the reception hall. This impressive room has high ceilings and vast bay windows looking out over the gardens and countryside beyond as well as an open fire and original pine flooring and cornicing. The dining room has original feature fireplace and cornicing and oak flooring whilst also overlooking the garden. There is a door leading to the kitchen. The kitchen is traditional in style with a gas fired aga and a range of bespoke kitchen units. Adjoining the kitchen is the utility room and boiler room. From the kitchen there is access to the workshop and studio. There is a stable door leading to the rear garden via the porch. The charm continues to the first floor where you will find the master room which is known as “The Red Room” this double aspect room is grand in style and continues the original pine flooring. A beautiful stain glass window and en suite shower room complete the accommodation. Stairs to the loft ensue which has potential to be converted subject to the necessary planning permission. Returning to the first floor the expansive family bathroom and sitting room (sixth bedroom) can be found. The latter has wonderful french style shutters to the interior. Four further double bedrooms, one of which is en suite weave their way along the long wide landing. Three of the bedrooms have stunning views of the garden and Tor afar. The main staircase leads you back to the reception hall. There also is a second staircase leading to the ground floor&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;The Annex&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;A fully furnished one-bedroom annex with views over the front garden. The accommodation is currently separate to the main house although could be reinstated easily.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Workshop/Studio&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;A two-storey storage and workspace area with light and airy accommodation on the first floor. This has previously been used as an art studio.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;The Coach House&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Lying within the grounds of Woodlands is the semi-detached two-bedroom coach house which can be accessed directly off the courtyard parking area. Original stabling remains in the kitchen as well as original 18th century doors. A cloakroom can also be found on the ground floor.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Outside&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Outside the property is approached by wooden gates which lead to the courtyard large parking area. There is plenty of parking with access to the original back door of the main house. The gardens are mainly to the southern side of the house and principally laid to lawn. The formal partly walled gardens with impressive borders, wisteria wrapping around the house and secret garden lead to the orchard at the southern boundary of the grounds. An outbuilding is found at the bottom of the orchard. There is vehicular side access to the orchard already in place possibly providing developmental potential subject to relevant planning permission. In total the grounds come to 1.98 acres.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Situation&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Glastonbury which is situated at the bottom of The Tor is a market town steeped in history. Today Glastonbury is a popular tourist venue welcoming thousands of visitors every year. The Cathedral City of Wells which offers further amenities including regular markets, is within a short driving distance while outlet shopping is available at nearby Clarks Village in Street. Mainline rail services to London Paddington are available from Castle Cary which is 17 miles away. Bristol Airport is 23 miles away. There is a wide range of good schools nearby in both the public and private sectors. There are good state primary schools within Glastonbury and several others nearby. State secondary schools include St. Dunstans in Glastonbury itself. Private schools locally include Millfield, both prep and senior schools, All Hallows, Wells Cathedral School, Downside and King’s School Bruton. The area is also well known for its variety of sporting and leisure facilities including walking and cycling. There are leisure centres at Wells and Glastonbury and golf courses at Wheathill, Mendip and Wells. Sailing at Chew Valley Lake and fishing at both Chew Valley and Blagdon Lakes as well as various areas on the Somerset Levels. Horse Racing can be found at Bath and Wincanton.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;If approaching from Wells continue on the Wells Road past West Mendip Hospital for around a mile. Bove Town will be found on your left-hand side and Woodlands 52 can be found on your right-hand side a couple of hundred yards up Bove Town.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Tenure&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Freehold&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Services&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Services -Mains water, mains drainage, Gas. Oil central heating.&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Local Authority&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Mendip District Council Telephone .&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Energy Performance Certificate&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;N/A&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Viewings&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Strictly by appointment with the Vendors agent Killens&lt;/p&gt;&lt;h3 class=&quot;listing-desc-header top&quot;&gt;&lt;strong&gt;Fixtures And Fittings&lt;/strong&gt;&lt;/h3&gt;&lt;p class=&quot;top&quot;&gt;Four poster bed in The Red Room and wardrobe in The Garden Room to be included. All those items usually regarded as retained to the vendors are specifically reserved out of the sale.&lt;/p&gt;</short_description>
+    <status>for_sale</status>
+    <street_name>52 Bove Town</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/7415635c288acbdcbaa1c1f9e866bf2be8cfa535.jpg</thumbnail_url>
+  </listing>
+  <listing>
+    <agent_address>Cutcombe Market, Wheddon Cross, Minehead</agent_address>
+    <agent_logo>https://st.zoocdn.com/zoopla_static_agent_logo_(505086).png</agent_logo>
+    <agent_name>Exmoor Farmers Livestock Auctions Ltd</agent_name>
+    <agent_phone>01643 238977</agent_phone>
+    <category>Residential</category>
+    <country>England</country>
+    <country_code>gb</country_code>
+    <county>Somerset</county>
+    <description>IntroductionGreat Nurcott comes to the market following the Vendor's recent decision to dissolve the farming partnership, the property having been occupied by the same family for over 100 years. This sale thereby affords potential purchasers an extremely rare opportunity to acquire an outstanding residential and commercial livestock holding occupying an exceptional position within the unspoilt countryside of the Exmoor National Park, providing considerable sporting and amenity appeal. Lot 1, comprising farmhouse, farm buildings and land of approximately 222.03 acres, with 3 further lots totalling 235.03 acres also available.DirectionsFrom Taunton take the A358 in a north westerly direction towards Minehead and after about 6 miles turn left onto the B3224 sign posted Elworthy and Ralegh's Cross. Follow this road for about 5.5 miles and at Elworthy Cross continue straight over into the Exmoor National Park. After passing the Ralegh's Cross Inn continue for about 0.6 miles and bear right beside the Brendon Hills Methodist Church, remaining on the B3224 towards Wheddon Cross. Follow this road for about 7 miles into Wheddon Cross and turn left. Stay on this road for about 3 miles before turning right for Winsford. Upon reaching Winsford continue straight through the village heading for Exford and Simonsbath whereupon the entrance drive to Great Nurcott will be found approximately 1 mile along this road on the right hand side.SituationThe property is situated in a sought after part of the picturesque Exmoor National Park accessed over a long private drive in a south facing position, enjoying outstanding views over the surrounding countryside. The setting is superb, lying well positioned within its own land in some of the most attractive countryside in the county comprising a beautiful and varied landscape primarily dominated by traditional agriculture interspersed with charming villages and farmsteads, with an abundance of pasture, woodland and open moor.Whilst the setting is rural the property still enjoys easy access to the surrounding districts, being within convenient driving distance of the popular Exmoor villages and towns of Winsford, Exford and Dulverton. Winsford itself is an extremely pretty village providing a parish church, village hall, post office/village stores, restaurant, and village cricket club, whilst the nearby A396 provides a useful link to Minehead, Dulverton, Bampton and Tiverton. The larger towns of Minehead and Dulverton offer a more comprehensive range of everyday shopping, banking and scholastic facilities, including primary and middle schools. Secondary schooling is available at Minehead or Wiveliscombe, with independent schools at Taunton, Wellington, West Buckland and Tiverton.Access to the M5 motorway is available at Taunton (J25), as well as Wellington (J26) and Tiverton (J27). Main line stations at Taunton and Tiverton Parkway provide a fast rail service to London (Paddington) with international airports available at Bristol and Exeter.Sporting and RecreationIn itself the property occupies a position within south west England renowned for both the diversity of its countryside and for the many varied sporting and recreational facilities available, either within the immediate vicinity or further afield. The Exmoor National Park boasts an abundance of foot and bridle paths and hunting may be enjoyed with several noted packs. For the equestrian inclined there are numerous active pony clubs in the area, point-to-points, polo clubs and National Hunt Steeplechase meetings held regularly at the Taunton Racecourse. Coarse and game fishing, together with sailing, exists on a number of local reservoirs, lakes and rivers, including nearby Wimbleball Lake. The spectacular north coast provides sea fishing, surfing and sailing, as well as pretty coastal villages and towns such as Lynton, Lynmouth, Porlock and Watchet.DescriptionThe property briefly comprises a substantial detached Grade II listed farmhouse of traditional construction affording well-proportioned six bedroomed accommodation. One wing of the house is currently disused and in a severely dilapidated condition, although this part could be easily incorporated back into the main house or utilised for the creation of a self-contained annexe, subject to any necessary planning and/or listed building consents.Situated adjacent to the farmhouse are a fine range of traditional stone buildings eminently suited to alternative uses such as holiday cottages, shooting lodges, annexe, studios or offices, subject to obtaining the appropriate planning consent. There is a further range of adaptable modern farm buildings well suited to a variety of livestock enterprises.The farmstead itself is conveniently positioned within the surrounding land, which is primarily contained within a ring fence and enjoys extensive road frontage and access. Currently utilised for the breeding, rearing and grazing of livestock and fodder production, the holding also incorporates a number of highly regarded commercial pheasant drives with associated release pens, game cover crops and woodland. In total Lot 1, Great Nurcott extends to about 222.03 acres.The property is offered for sale by private treaty, either as a whole or in a combination of up to 4 lots as described within these sale particulars:-Lot 1 - The Farmhouse, Farm Buildings and Land extending to about 222.03 AcresThe FarmhouseA character traditional farmhouse, which despite now requiring updating and modernisation, affords the potential to create an exceptionally attractive and highly individual family home occupying a secluded south facing position. A spacious entrance porch with an original heavy studded front door leads into the entrance hall, with an enclosed staircase to the first floor.The large Dining Room has exposed ceiling beams, a window seat and a stone open fireplace (possibly concealing an original inglenook) with a walk in cupboard to one side. A similary well proportioned Sitting Room has exposed chamfered beams, a window seat and a tiled open fireplace (also possibly concealing an original inglenook) with an enclosed early spiral staircase (disused) to one side.The Farmhouse Kitchen boasts an impressive walk-in inglenook fireplace with a bread oven, slate hearth, original witches window and fireside seat. An oil-fired Rayburn provides cooking and domestic hot water with small range of base cupboard and drawer units and a stainless steel sink.A door from the kitchen leads into a Rear Hall with secondary stairs rising to first floor. The Dairy still retains a slate cold shelf, with steps leading up into the adjoining disused wing which is in a dilapidated condition and contains a further Cellar and Store. Situated off the kitchen is a utility/boot room with a glazed sink, cloakroom off and doors to outside.On the First Floor there are five bedrooms situated off the main landing, with a rear landing providing access to a further bedroom and the family bathroom. A door from Bedroom 2leads through into two further rooms on the first floor of the disused wing. Please note: This area should not be entered when viewing. For approximate room dimensions and layout please refer to the enclosed floorplan.OutsideA private entrance drive bisects the holding, rising to the east of the farmhouse and terminating in a large courtyard area off which are situated the principal range of farm buildings. A pedestrian path provides access to the front, flanked by shrub borders and principally lawned within walled and laurel hedged boundaries. Steps lead down to a lower garden area. To the rear is an enclosed courtyard providing access to the farmhouse with a part stone and gi roofed open sided Fuel Store. A side access leads to the rear of the farmhouse and to an inner courtyard containing the domestic oil tank and flanked by the west wing.To the north are further dilapidated traditional outbuildings, with attached Stable Block of stone and slate roofed construction, containing Three Loose Boxes and further Pony Box with loft over. Adjoining Tack Room.The Farm BuildingsSituated on the opposite side of the entrance drive, the buildings consist of an amalgam of both tradition and more modern construction. Although presently utilised for mixed livestock purposes they are nevertheless adaptable to a variety of alternative uses allied to the residential enjoyment of the property. They may be further described as follows:-Stone and slate roofed Workshop, 25'1&quot; x 11'3&quot; (7.65m x 3.43m), with double doors to one end.Three bay steel and fibre cement roofed Dutch Barn, 45' x 23'9&quot; (13.71m x 7.24m), with adjoining Covered Yard, 45' x 24'5&quot; (13.71m x 7.45m), with part block and gi clad elevations.Stone and fibre cement roofed former Threshing Barn, 39' x 16' (11.89m x 4.88m), with door to ground level at rear and various Loose Houses below and accessed from the lower yard. Adjoining is a range of part stone, part block and corrugated fibre cement roofed former Calf Houses, 27'6&quot; x 10'1&quot; (8.39m x 3.08m), with further attached range of similar construction, 64'10&quot; x 10'7&quot; min. (19.76m x 3.24m min.).Three bay steel and fibre cement roofed Covered Yard, 58'7&quot; x 34'7&quot; (17.86m x 10.55m), with part block walls and part concrete floor. Adjoining two bay Fodder Store, 39'4&quot; x 34'7&quot; (12m x 10.55m), of similar construction.Situated below the house and accessed from the entrance drive is a modern Sheep House, 240' x 110' (73.15m x 33.53m), of timber and profile steel roofed construction with overhanging eaves to either side. Further central feed passage. Internal handling area with sheep dip flanked with concrete floors and draining pens. The building has a capacity for about 1600 ewes. Adjoining hardened yard with two rsj and timber panelled Open Silage Clamps, approx. 108' x 25' (32.92m x 7.64m) and 108' x 24'10&quot; (32.92m x 7.59m). Concrete floor throughout with effluent tank.The LandPrincipally contained within a ring fence the farmland provides a diversity of topography ranging from exceptionally productive permanent pastures and leys which have historically been used in part for arable rotations to more steeply sloping coombes, in part afforested to both coniferous and broad leafed woodland. It is a holding which possesses agricultural productivity as well as sporting, amenity and conservation appeal.In total, Lot 1 extends to about 222.03 acres as shown shaded pink on the identification plan.General RemarksTenure and PossessionThe property is of freehold tenure with the benefit of vacant possession of all parts, subject to any rights of holdover which may be required, depending upon the date of completion.ServicesMains electricity connected to the farmhouse, cottages and principle farm buildings. Private water supply to the farmhouse, farm buildings and troughs upon some of the land. The majority of the land benefits from natural spring and stream watering. Drainage of farmhouse to a private system.In the event of the property being sold in lots adequate provision will need to be made for appropriate easements and rights for services.OutgoingsThese are believed to comprise of local Council Tax, on Great Nurcott Farmhouse - Band E, together with the usual service and environmental charges where applicable.Fixtures and FittingsAll fixtures and fittings, unless specifically referred to within these sale particulars are otherwise expressly excluded from the sale.Basic Payment SchemeBasic payment entitlements for the relevant area of land will be included in the sale and the Vendors agree to use their best endeavours to transfer the entitlements to the Purchaser subject to receiving written instructions. On request of this transfer the Purchaser will be responsible for the Vendors Agents reasonable costs incurred in completing the relevant transfer documents.Rights of Way, Easements, Wayleaves EtcA public footpath crosses the land contained within Lot 4. The property is offered and as far as required by the vendors will be conveyed subject to all other rights of way, easements, wayleaves, privileges and advantages, either public or private, whether specifically referred to in these particulars of sale or not.DesignationsThe land has been entered into a 10 year Environmental Stewardship agreement (Agreement No. AG00520472) with Natural England which commenced on the 1st May 2014. The land currently receives payments under the Uplands Entry Level Stewardship and Higher Level Stewardship schemes totalling approximately £13,900 per annum for the four Lots of approximately 457.06 acres.Prospective purchasers should satisfy themselves as to the contents and obligations of the above agreement and will covenant to farm in accordance with the management prescriptions. Copies of the Environmental Stewardship agreement are available from the agents upon request.Sporting RightsThe shooting rights across the property are to be included in the sale. These rights are currently let, together with some small areas of game cover crop, to a neighbouring pheasant shoot on an annual basis.It is understood that the double bank fishing rights on the River Exe are included in the sale of the property.The hunting rights across the property have been vested in the Badgworthy Land Company.Fencing ObligationThe Purchaser of Lot 1 will be responsible, within two months of the completion date, for the erection and future maintenance of a new stock proof fence between points A and B shown on the identification plan.Town and Country PlanningGreat Nurcott farmhouse and is associated traditional farm buildings are listed Grade II, being of special architectural or historic interest. Further details are available on the Historic England website.The current use of the farm buildings is agricultural although there may be scope for prospective purchasers to consider alternative uses within the farm buildings, subject to obtaining the necessary planning consent from Exmoor National Park Authority.Live and Deadstock SaleThe right is reserved to hold a sale by auction on the premises of the live and dead farming stock prior to the date of completion.Local AuthoritySomerset County Council, County Hall, Taunton, Somerset, TA1 4DY. Tel: Exmoor National Park Authority, Exmoor House, Dulverton, Somerset, TA22 9HL. Tel: West Somerset Council, West Somerset House, Killick Way, Williton, Taunton, Somerset, TA4 4QA. Tel: Ingoing ValuationIn addition to the purchase price for the property, the Purchaser of Lot 1 may be required to take over and pay for the items detailed below by way of an ingoing valuation:-Any bagged or wrapped silage, hay and straw at market value.Clamped silage at consuming value.Any consumable stores, fertilisers, fuel, oils and other stores at cost price.The valuation will be carried out by the Vendors Agents whose decision shall be final and binding on behalf of the Vendors and Purchaser. All valuation monies shall be liable at the time of completion, together with the Valuers fees and expenses which will be borne equally by the parties. Any unpaid sums following completion shall incur interest at the contract rate until settled.The Purchaser will have the option to appoint their own Valuer. This option shall be exercised on the signing of the sale contract. In the event of such an option being exercised and in the event of the Valuers failing to agree the valuation by the date of completion, the valuation will be settled by an Arbitrator to be appointed by the President for the time being of the Central Association of Agricultural Valuers.Important NoticeAll persons wishing to view the property do so entirely at their own risk. Neither the Vendors or their Agents will be held liable for any damage or injury that may occur when interested parties are visiting the property.Greenslade Taylor Hunt and Exmoor Farmers Livestock Auctions Ltd. For themselves and for the Vendors of the property whose agents they are give notice that:-- these particulars are set out as a general outline only for the guidance of intending purchasers and do not constitute, nor constitute part of, an offer or contract. Prospective purchasers should seek their own professional advice.- all descriptions, dimensions, areas, reference to condition, necessary permissions for use and occupation, and all other details are given in good faith and are believed to be correct. Any intending purchasers should not rely on them as statements or representations of fact but must satisfy themselves by inspection or otherwise as to the correctness of each of them.- no responsibility can be accepted for any expenses incurred by any intending purchasers inspecting properties that have been sold, let or withdrawn.No person in the employment of Greenslade Taylor Hunt or Exmoor Farmers Livestock Auctions Ltd. Has any authority to make or give any representation or warranty whatsoever in relation to the property or the particulars.Measurements and Other InformationAll measurements are approximate. The field numbers and areas shown on the attached plan are based on the Ordnance Survey and are for identification purposes only. They do not necessarily correspond either with the National Grid plan numbers or with those to be produced on the Rural Land Register.Whilst we endeavour to make our sales particulars as accurate and reliable as possible, if there are any point which is of particular importance to you please contact the office, especially if you are contemplating travelling some distance to view the property. We have not tested any of the equipment, appliances, central heating or services</description>
+    <details_url>https://www.zoopla.co.uk/for-sale/details/50786439?utm_source=v1:r66PGjLXD0rWpUbye-s_5TKpfEYrhKqN&amp;utm_medium=api</details_url>
+    <displayable_address>Winsford, Minehead TA24</displayable_address>
+    <first_published_date>2019-03-13 10:58:55</first_published_date>
+    <furnished_state>
+</furnished_state>
+    <image_150_113_url>https://lid.zoocdn.com/150/113/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_150_113_url>
+    <image_354_255_url>https://lid.zoocdn.com/354/255/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_354_255_url>
+    <image_50_38_url>https://lid.zoocdn.com/50/38/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_50_38_url>
+    <image_645_430_url>https://lid.zoocdn.com/645/430/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_645_430_url>
+    <image_80_60_url>https://lid.zoocdn.com/80/60/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_80_60_url>
+    <image_caption>
+</image_caption>
+    <image_url>https://lid.zoocdn.com/354/255/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</image_url>
+    <last_published_date>2019-03-14 04:08:55</last_published_date>
+    <latitude>51.11568</latitude>
+    <listing_id>50786439</listing_id>
+    <listing_status>sale</listing_status>
+    <location_is_approximate>0</location_is_approximate>
+    <longitude>-3.566586</longitude>
+    <num_bathrooms>0</num_bathrooms>
+    <num_bedrooms>0</num_bedrooms>
+    <num_floors>0</num_floors>
+    <num_recepts>0</num_recepts>
+    <outcode>TA24</outcode>
+    <post_town>Minehead</post_town>
+    <price>1700000</price>
+    <price_change>
+      <date>2019-03-13 10:58:05</date>
+      <direction>
+</direction>
+      <percent>0%</percent>
+      <price>1700000</price>
+    </price_change>
+    <price_modifier>guide_price</price_modifier>
+    <property_type>Farm</property_type>
+    <short_description>An attractive and well situated Residential and Commercial Livestock Holding with sporting appeal occupying an outstanding rural position within the sought after Exmoor National Park; In all about 222.03 Acres. Further lots of approx 235 acres available.</short_description>
+    <status>for_sale</status>
+    <street_name>Winsford</street_name>
+    <thumbnail_url>https://lid.zoocdn.com/80/60/7dda4a9be6cb0547d1f43881b0231ba5edb9d971.jpg</thumbnail_url>
+  </listing>
+  <longitude>-3.0342795</longitude>
+  <postcode>
+</postcode>
+  <result_count>4124</result_count>
+  <street>
+</street>
+  <town>
+</town>
+</response>
